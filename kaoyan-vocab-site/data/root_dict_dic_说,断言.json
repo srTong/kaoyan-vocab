@@ -1,0 +1,60 @@
+{
+  "name": "dict/dic (说,断言)",
+  "meaning": "说,断言",
+  "words": [
+    {
+      "word": "addict",
+      "meaning": "沉迷",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "contradict",
+      "meaning": "矛盾",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "dictate",
+      "meaning": "命令",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "indicate",
+      "meaning": "表明",
+      "example": "C.indicate the atmosphere at the board meeting",
+      "source": "2023年真题"
+    },
+    {
+      "word": "indication",
+      "meaning": "指示",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "indicative",
+      "meaning": "指示的",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "indicator",
+      "meaning": "指标",
+      "example": "It excludes GDP as an indicator.",
+      "source": "2017年真题"
+    },
+    {
+      "word": "predict",
+      "meaning": "预测",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "prediction",
+      "meaning": "预测",
+      "example": "One example of how artists and scientists have together rocked the scenes came last month when the Sydney Symphony Orchestra performed a reworked version of Antonio Vivaldi's The Four Seasons. They reimagined the 300-year-old score by injecting the latest climate prediction data for each season-provided by Monash Univerity's Climate Change Communication Research Hub. The performance was a creative call to action ahead of November's United Nations Climate Change Conference in Glasgow, UK.",
+      "source": "2022年真题"
+    }
+  ]
+}

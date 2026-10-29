@@ -1,0 +1,802 @@
+[
+  {
+    "word": "call",
+    "meaning": "打电话"
+  },
+  {
+    "word": "city",
+    "meaning": "城市"
+  },
+  {
+    "word": "centre",
+    "meaning": "中心、中央"
+  },
+  {
+    "word": "idea",
+    "meaning": "想法"
+  },
+  {
+    "word": "talk",
+    "meaning": "说"
+  },
+  {
+    "word": "sentence",
+    "meaning": "句子、判决"
+  },
+  {
+    "word": "hour",
+    "meaning": "小时"
+  },
+  {
+    "word": "build",
+    "meaning": "建造"
+  },
+  {
+    "word": "spend",
+    "meaning": "花"
+  },
+  {
+    "word": "bank",
+    "meaning": "银行"
+  },
+  {
+    "word": "cost",
+    "meaning": "花费"
+  },
+  {
+    "word": "price",
+    "meaning": "价格"
+  },
+  {
+    "word": "comprehension",
+    "meaning": "理解"
+  },
+  {
+    "word": "understand",
+    "meaning": "理解"
+  },
+  {
+    "word": "test",
+    "meaning": "测试"
+  },
+  {
+    "word": "bring",
+    "meaning": "带来"
+  },
+  {
+    "word": "however",
+    "meaning": "但是、然而"
+  },
+  {
+    "word": "person",
+    "meaning": "人"
+  },
+  {
+    "word": "whether",
+    "meaning": "是否"
+  },
+  {
+    "word": "reason",
+    "meaning": "理由"
+  },
+  {
+    "word": "view",
+    "meaning": "景观"
+  },
+  {
+    "word": "improve",
+    "meaning": "改进、提高"
+  },
+  {
+    "word": "care",
+    "meaning": "关心、在意"
+  },
+  {
+    "word": "benefit",
+    "meaning": "益处、好处"
+  },
+  {
+    "word": "teach",
+    "meaning": "教"
+  },
+  {
+    "word": "kind",
+    "meaning": "仁慈的、种类"
+  },
+  {
+    "word": "skill",
+    "meaning": "技术"
+  },
+  {
+    "word": "include",
+    "meaning": "包括"
+  },
+  {
+    "word": "create",
+    "meaning": "创造"
+  },
+  {
+    "word": "plan",
+    "meaning": "计划"
+  },
+  {
+    "word": "industry",
+    "meaning": "工业、行业"
+  },
+  {
+    "word": "rate",
+    "meaning": "比率"
+  },
+  {
+    "word": "lose",
+    "meaning": "失去、失败"
+  },
+  {
+    "word": "rise",
+    "meaning": "上升"
+  },
+  {
+    "word": "space",
+    "meaning": "空间"
+  },
+  {
+    "word": "hold",
+    "meaning": "握着、坚持"
+  },
+  {
+    "word": "ability",
+    "meaning": "能力"
+  },
+  {
+    "word": "animal",
+    "meaning": "动物"
+  },
+  {
+    "word": "role",
+    "meaning": "角色"
+  },
+  {
+    "word": "away",
+    "meaning": "离开"
+  },
+  {
+    "word": "happen",
+    "meaning": "发生"
+  },
+  {
+    "word": "fall",
+    "meaning": "下降、掉落"
+  },
+  {
+    "word": "self",
+    "meaning": "自我、自己"
+  },
+  {
+    "word": "interest",
+    "meaning": "兴趣"
+  },
+  {
+    "word": "activity",
+    "meaning": "活跃、活动"
+  },
+  {
+    "word": "quality",
+    "meaning": "质量"
+  },
+  {
+    "word": "environment",
+    "meaning": "环境、自然环境"
+  },
+  {
+    "word": "paper",
+    "meaning": "纸、试卷"
+  },
+  {
+    "word": "sleep",
+    "meaning": "睡眠"
+  },
+  {
+    "word": "half",
+    "meaning": "一半"
+  },
+  {
+    "word": "office",
+    "meaning": "办公室"
+  },
+  {
+    "word": "travel",
+    "meaning": "旅行"
+  },
+  {
+    "word": "professor",
+    "meaning": "教授"
+  },
+  {
+    "word": "though",
+    "meaning": "尽管"
+  },
+  {
+    "word": "history",
+    "meaning": "历史"
+  },
+  {
+    "word": "nation",
+    "meaning": "国家"
+  },
+  {
+    "word": "almost",
+    "meaning": "几乎"
+  },
+  {
+    "word": "customer",
+    "meaning": "顾客"
+  },
+  {
+    "word": "subject",
+    "meaning": "科目"
+  },
+  {
+    "word": "really",
+    "meaning": "确实"
+  },
+  {
+    "word": "ever",
+    "meaning": "从来"
+  },
+  {
+    "word": "success",
+    "meaning": "成功"
+  },
+  {
+    "word": "name",
+    "meaning": "名称、命名"
+  },
+  {
+    "word": "stress",
+    "meaning": "压力"
+  },
+  {
+    "word": "matter",
+    "meaning": "事情、问题、重要"
+  },
+  {
+    "word": "involve",
+    "meaning": "涉及"
+  },
+  {
+    "word": "raise",
+    "meaning": "举起、提出"
+  },
+  {
+    "word": "identify",
+    "meaning": "识别、鉴定"
+  },
+  {
+    "word": "stay",
+    "meaning": "保持、停留"
+  },
+  {
+    "word": "medium",
+    "meaning": "中等的、媒介"
+  },
+  {
+    "word": "lack",
+    "meaning": "缺乏"
+  },
+  {
+    "word": "fill",
+    "meaning": "填"
+  },
+  {
+    "word": "rule",
+    "meaning": "规则"
+  },
+  {
+    "word": "record",
+    "meaning": "记录"
+  },
+  {
+    "word": "sell",
+    "meaning": "卖"
+  },
+  {
+    "word": "note",
+    "meaning": "笔记"
+  },
+  {
+    "word": "challenge",
+    "meaning": "挑战"
+  },
+  {
+    "word": "store",
+    "meaning": "存储、商店"
+  },
+  {
+    "word": "check",
+    "meaning": "检查"
+  },
+  {
+    "word": "deal",
+    "meaning": "处理"
+  },
+  {
+    "word": "list",
+    "meaning": "清单"
+  },
+  {
+    "word": "average",
+    "meaning": "平均的"
+  },
+  {
+    "word": "break",
+    "meaning": "打破"
+  },
+  {
+    "word": "difference",
+    "meaning": "不同"
+  },
+  {
+    "word": "shop",
+    "meaning": "购物"
+  },
+  {
+    "word": "meet",
+    "meaning": "遇见、会见"
+  },
+  {
+    "word": "task",
+    "meaning": "任务"
+  },
+  {
+    "word": "effort",
+    "meaning": "努力"
+  },
+  {
+    "word": "plant",
+    "meaning": "植物、工厂"
+  },
+  {
+    "word": "encourage",
+    "meaning": "鼓励、发展"
+  },
+  {
+    "word": "career",
+    "meaning": "职业"
+  },
+  {
+    "word": "influence",
+    "meaning": "影响"
+  },
+  {
+    "word": "music",
+    "meaning": "音乐"
+  },
+  {
+    "word": "item",
+    "meaning": "物品、条款"
+  },
+  {
+    "word": "member",
+    "meaning": "成员"
+  },
+  {
+    "word": "explain",
+    "meaning": "解释"
+  },
+  {
+    "word": "translation",
+    "meaning": "翻译"
+  },
+  {
+    "word": "enjoy",
+    "meaning": "享受"
+  },
+  {
+    "word": "training",
+    "meaning": "训练"
+  },
+  {
+    "word": "nature",
+    "meaning": "自然界、性质"
+  },
+  {
+    "word": "type",
+    "meaning": "类型、输入"
+  },
+  {
+    "word": "save",
+    "meaning": "保存、拯救"
+  },
+  {
+    "word": "essay",
+    "meaning": "论文"
+  },
+  {
+    "word": "third",
+    "meaning": "第三"
+  },
+  {
+    "word": "interview",
+    "meaning": "采访、面试"
+  },
+  {
+    "word": "reach",
+    "meaning": "到达、达到"
+  },
+  {
+    "word": "professional",
+    "meaning": "职业的、专业的"
+  },
+  {
+    "word": "sign",
+    "meaning": "标牌"
+  },
+  {
+    "word": "earth",
+    "meaning": "地球、泥土"
+  },
+  {
+    "word": "again",
+    "meaning": "再次"
+  },
+  {
+    "word": "contain",
+    "meaning": "包含"
+  },
+  {
+    "word": "love",
+    "meaning": "爱"
+  },
+  {
+    "word": "return",
+    "meaning": "回归、返回"
+  },
+  {
+    "word": "translate",
+    "meaning": "解释、翻译、转变"
+  },
+  {
+    "word": "describe",
+    "meaning": "描述"
+  },
+  {
+    "word": "television",
+    "meaning": "电视"
+  },
+  {
+    "word": "quite",
+    "meaning": "相当的"
+  },
+  {
+    "word": "attitude",
+    "meaning": "态度"
+  },
+  {
+    "word": "pass",
+    "meaning": "经过"
+  },
+  {
+    "word": "communication",
+    "meaning": "沟通"
+  },
+  {
+    "word": "lecture",
+    "meaning": "讲座"
+  },
+  {
+    "word": "factor",
+    "meaning": "因素、因子"
+  },
+  {
+    "word": "draw",
+    "meaning": "画画"
+  },
+  {
+    "word": "memory",
+    "meaning": "记忆"
+  },
+  {
+    "word": "watch",
+    "meaning": "观看"
+  },
+  {
+    "word": "white",
+    "meaning": "白色的"
+  },
+  {
+    "word": "wrong",
+    "meaning": "错误的"
+  },
+  {
+    "word": "expert",
+    "meaning": "专家、专门的"
+  },
+  {
+    "word": "send",
+    "meaning": "发送"
+  },
+  {
+    "word": "degree",
+    "meaning": "温度、程度"
+  },
+  {
+    "word": "pause",
+    "meaning": "暂停"
+  },
+  {
+    "word": "opinion",
+    "meaning": "意见"
+  },
+  {
+    "word": "income",
+    "meaning": "收入"
+  },
+  {
+    "word": "amount",
+    "meaning": "数量"
+  },
+  {
+    "word": "stand",
+    "meaning": "站立"
+  },
+  {
+    "word": "team",
+    "meaning": "团队"
+  },
+  {
+    "word": "action",
+    "meaning": "行动、行为"
+  },
+  {
+    "word": "perhaps",
+    "meaning": "也许"
+  },
+  {
+    "word": "please",
+    "meaning": "请、使愉快"
+  },
+  {
+    "word": "street",
+    "meaning": "街道"
+  },
+  {
+    "word": "goal",
+    "meaning": "目标"
+  },
+  {
+    "word": "loss",
+    "meaning": "丢失"
+  },
+  {
+    "word": "together",
+    "meaning": "一共"
+  },
+  {
+    "word": "sale",
+    "meaning": "销售"
+  },
+  {
+    "word": "production",
+    "meaning": "生产"
+  },
+  {
+    "word": "grade",
+    "meaning": "年级"
+  },
+  {
+    "word": "visit",
+    "meaning": "参观、访问"
+  },
+  {
+    "word": "depend",
+    "meaning": "依赖"
+  },
+  {
+    "word": "simply",
+    "meaning": "仅仅"
+  },
+  {
+    "word": "farm",
+    "meaning": "农场"
+  },
+  {
+    "word": "hope",
+    "meaning": "希望"
+  },
+  {
+    "word": "speaker",
+    "meaning": "扬声器、说话人"
+  },
+  {
+    "word": "intelligence",
+    "meaning": "智力"
+  },
+  {
+    "word": "picture",
+    "meaning": "图片"
+  },
+  {
+    "word": "event",
+    "meaning": "事件"
+  },
+  {
+    "word": "step",
+    "meaning": "步骤"
+  },
+  {
+    "word": "habit",
+    "meaning": "习惯"
+  },
+  {
+    "word": "chance",
+    "meaning": "机会"
+  },
+  {
+    "word": "driver",
+    "meaning": "驾驶员"
+  },
+  {
+    "word": "access",
+    "meaning": "进入、存取"
+  },
+  {
+    "word": "sport",
+    "meaning": "体育运动"
+  },
+  {
+    "word": "advantage",
+    "meaning": "优势"
+  },
+  {
+    "word": "newspaper",
+    "meaning": "报纸"
+  },
+  {
+    "word": "remember",
+    "meaning": "记得"
+  },
+  {
+    "word": "land",
+    "meaning": "着陆、土地"
+  },
+  {
+    "word": "solve",
+    "meaning": "解答"
+  },
+  {
+    "word": "function",
+    "meaning": "功能"
+  },
+  {
+    "word": "phrase",
+    "meaning": "短语"
+  },
+  {
+    "word": "message",
+    "meaning": "消息"
+  },
+  {
+    "word": "promote",
+    "meaning": "促进"
+  },
+  {
+    "word": "road",
+    "meaning": "路"
+  },
+  {
+    "word": "limit",
+    "meaning": "限制"
+  },
+  {
+    "word": "fear",
+    "meaning": "恐惧"
+  },
+  {
+    "word": "pattern",
+    "meaning": "模式、图案"
+  },
+  {
+    "word": "baby",
+    "meaning": "宝贝"
+  },
+  {
+    "word": "response",
+    "meaning": "回应"
+  },
+  {
+    "word": "reader",
+    "meaning": "读者、读物"
+  },
+  {
+    "word": "near",
+    "meaning": "近的、亲近的"
+  },
+  {
+    "word": "black",
+    "meaning": "黑色的"
+  },
+  {
+    "word": "traffic",
+    "meaning": "交通"
+  },
+  {
+    "word": "walk",
+    "meaning": "走路"
+  },
+  {
+    "word": "gain",
+    "meaning": "获得、增加"
+  },
+  {
+    "word": "speech",
+    "meaning": "演讲、言语"
+  },
+  {
+    "word": "award",
+    "meaning": "颁奖、奖励"
+  },
+  {
+    "word": "except",
+    "meaning": "除了……之外"
+  },
+  {
+    "word": "party",
+    "meaning": "派对"
+  },
+  {
+    "word": "dream",
+    "meaning": "梦想"
+  },
+  {
+    "word": "increasingly",
+    "meaning": "不断增加地"
+  },
+  {
+    "word": "drink",
+    "meaning": "喝"
+  },
+  {
+    "word": "conflict",
+    "meaning": "冲突"
+  },
+  {
+    "word": "trouble",
+    "meaning": "麻烦"
+  },
+  {
+    "word": "nearly",
+    "meaning": "几乎"
+  },
+  {
+    "word": "exercise",
+    "meaning": "锻炼"
+  },
+  {
+    "word": "town",
+    "meaning": "城镇"
+  },
+  {
+    "word": "wait",
+    "meaning": "等待"
+  },
+  {
+    "word": "composition",
+    "meaning": "构成、作品、作词"
+  },
+  {
+    "word": "meeting",
+    "meaning": "会议"
+  },
+  {
+    "word": "feature",
+    "meaning": "特征、容貌、以……为特色"
+  },
+  {
+    "word": "theory",
+    "meaning": "理论"
+  },
+  {
+    "word": "catch",
+    "meaning": "抓住"
+  }
+]

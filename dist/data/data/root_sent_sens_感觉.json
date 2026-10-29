@@ -1,0 +1,48 @@
+{
+  "name": "sent/sens (感觉)",
+  "meaning": "感觉",
+  "words": [
+    {
+      "word": "absent",
+      "meaning": "缺席的",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "insensitive",
+      "meaning": "不敏感的",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "present",
+      "meaning": "呈现,礼物",
+      "example": "Older generations often talk about their degree in the present and personal tense: I am a geographer or' I am a classist.'Their sons or daughters would never say such a thing; it's as if they already know that their degree won't define them in the same way.",
+      "source": "2022年真题"
+    },
+    {
+      "word": "presentation",
+      "meaning": "演示",
+      "example": "",
+      "source": ""
+    },
+    {
+      "word": "sense",
+      "meaning": "感觉,意义",
+      "example": "This _11_ makes sense if you simplify the workings of a complex brain, 12 it to an array of electrical pulses; cells in plants also communicate through electrical signals. 13 , the signaling in a plant is only_ 14 similar to the firing in a complex animal brain, which is more than \"a mass of cells that communicate by electricity,\" Taiz said.",
+      "source": "2022年真题"
+    },
+    {
+      "word": "sensible",
+      "meaning": "明智的",
+      "example": "a sensible compromise.",
+      "source": "2020年真题"
+    },
+    {
+      "word": "sensitive",
+      "meaning": "敏感的",
+      "example": "For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. (49) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future. Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers. Data can be gathered on where the customer can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages inappropriate forms, including emails, social media posts, pop-up advertisements, and banners at an appropriate frequency. (50) The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer.",
+      "source": "2023年真题"
+    }
+  ]
+}

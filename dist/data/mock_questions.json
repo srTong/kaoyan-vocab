@@ -1,0 +1,6002 @@
+[
+  {
+    "root": "mit",
+    "word": "permissive",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“容许的；随意的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "admit",
+        "meaning": "让…进入"
+      },
+      {
+        "word": "Premise",
+        "meaning": "前提,房屋连地基,上述各项；预先提出,引出,作为的前提；作出前提"
+      },
+      {
+        "word": "permissive",
+        "meaning": "容许的；随意的"
+      },
+      {
+        "word": "omit",
+        "meaning": "删去；省略"
+      }
+    ],
+    "answer": "permissive",
+    "explanation": "答案：permissive（容许的；随意的）。其他选项同属词根 mit，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "duc",
+    "word": "reproducible",
+    "prompt": "根据句意，选择最适合填入空格的词：50) If we are serious about ensuring that our science is both meaningful and ________, we must ensure that our institutions encourage that kind of science.",
+    "options": [
+      {
+        "word": "reproducibility",
+        "meaning": "再现情,笪复情；实验室间重复性;再现性"
+      },
+      {
+        "word": "reproducible",
+        "meaning": "可再生的,可复写的,能繁殖的"
+      },
+      {
+        "word": "Conductor",
+        "meaning": "指导者，管理人"
+      },
+      {
+        "word": "coeducational",
+        "meaning": "男女合校的"
+      }
+    ],
+    "answer": "reproducible",
+    "explanation": "答案：reproducible（可再生的,可复写的,能繁殖的）。其他选项同属词根 duc，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "christian",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“基督徒 A”意思最相符的单词。",
+    "options": [
+      {
+        "word": "jar",
+        "meaning": "广口瓶"
+      },
+      {
+        "word": "disagree",
+        "meaning": "不同意；不一致"
+      },
+      {
+        "word": "soon",
+        "meaning": "不久"
+      },
+      {
+        "word": "christian",
+        "meaning": "基督徒 A"
+      }
+    ],
+    "answer": "christian",
+    "explanation": "答案：christian（基督徒 A）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sent",
+    "word": "desensitization",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "desensitization",
+        "meaning": "脱敏（现象）"
+      },
+      {
+        "word": "Absence",
+        "meaning": "不在"
+      },
+      {
+        "word": "unrepresentative",
+        "meaning": "不，非，未存在的，有性的"
+      },
+      {
+        "word": "assent",
+        "meaning": "同意"
+      }
+    ],
+    "answer": "desensitization",
+    "explanation": "答案：desensitization（脱敏（现象））。其他选项同属词根 sent，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sort",
+    "word": "consort",
+    "prompt": "根据句意，选择最适合填入空格的词：The process may ________ over time.",
+    "options": [
+      {
+        "word": "sort",
+        "meaning": "（词根）签，阄；运气"
+      },
+      {
+        "word": "consort",
+        "meaning": "陪伴；一致 n."
+      },
+      {
+        "word": "Resort",
+        "meaning": "凭借；常去 n."
+      },
+      {
+        "word": "consortium",
+        "meaning": "财团；组合，共同体"
+      }
+    ],
+    "answer": "consort",
+    "explanation": "答案：consort（陪伴；一致 n.）。其他选项同属词根 sort，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vad(vas)",
+    "word": "waddle",
+    "prompt": "根据句意，选择最适合填入空格的词：The process may ________ over time.",
+    "options": [
+      {
+        "word": "invading",
+        "meaning": "侵入,侵略(的现在分词);涌入;侵袭;侵犯"
+      },
+      {
+        "word": "evasively",
+        "meaning": "逃避的，躲避地"
+      },
+      {
+        "word": "evade",
+        "meaning": "逃避；规避；回避；避开；漏"
+      },
+      {
+        "word": "waddle",
+        "meaning": "摇摇摆摆地走，蹒跚"
+      }
+    ],
+    "answer": "waddle",
+    "explanation": "答案：waddle（摇摇摆摆地走，蹒跚）。其他选项同属词根 vad(vas)，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "aim",
+    "prompt": "根据句意，选择最适合填入空格的词：Plays ________ at literary distinction were written for school or court, or for the choir boys of St.",
+    "options": [
+      {
+        "word": "postwar",
+        "meaning": "战后的"
+      },
+      {
+        "word": "aim",
+        "meaning": "致力于"
+      },
+      {
+        "word": "loss",
+        "meaning": "遗失"
+      },
+      {
+        "word": "tremble",
+        "meaning": "战栗"
+      }
+    ],
+    "answer": "aim",
+    "explanation": "答案：aim（致力于）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ag",
+    "word": "agitation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "agitation",
+        "meaning": "鼓动；激动；不安"
+      },
+      {
+        "word": "actor",
+        "meaning": "男演员；行动者"
+      },
+      {
+        "word": "activism",
+        "meaning": "［哲］能动主义；积极，活跃"
+      },
+      {
+        "word": "Interact",
+        "meaning": "互相作用，互相影响"
+      }
+    ],
+    "answer": "agitation",
+    "explanation": "答案：agitation（鼓动；激动；不安）。其他选项同属词根 ag，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "salv",
+    "word": "safe",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“安全的；平安的；保险的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "safe",
+        "meaning": "安全的；平安的；保险的"
+      },
+      {
+        "word": "salvation",
+        "meaning": "救助；解救；救赎"
+      },
+      {
+        "word": "safely",
+        "meaning": "安全地"
+      },
+      {
+        "word": "salutary",
+        "meaning": "有益的，有好处的"
+      }
+    ],
+    "answer": "safe",
+    "explanation": "答案：safe（安全的；平安的；保险的）。其他选项同属词根 salv，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "online",
+    "prompt": "根据句意，选择最适合填入空格的词：The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on ________ purchases already.",
+    "options": [
+      {
+        "word": "damage",
+        "meaning": "损坏"
+      },
+      {
+        "word": "online",
+        "meaning": "在线的"
+      },
+      {
+        "word": "growth",
+        "meaning": "生长；发育"
+      },
+      {
+        "word": "upright",
+        "meaning": "直立的；竖立的"
+      }
+    ],
+    "answer": "online",
+    "explanation": "答案：online（在线的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "jur",
+    "word": "adjust",
+    "prompt": "根据句意，选择最适合填入空格的词：But in the medium term, middle-class workers may need a lot of help ________.",
+    "options": [
+      {
+        "word": "uninjured",
+        "meaning": "未受损害的,未受伤害的"
+      },
+      {
+        "word": "adjust",
+        "meaning": "调整，调节"
+      },
+      {
+        "word": "conjured",
+        "meaning": "用魔术变出(的过去式和过去分词);祈求,恳求;变戏法;（变魔术般地）使…出现"
+      },
+      {
+        "word": "conjuration",
+        "meaning": "祈祷,祈求,戏法,咒文,魔术,妖术；符咒,魔法,犯罪企图"
+      }
+    ],
+    "answer": "adjust",
+    "explanation": "答案：adjust（调整，调节）。其他选项同属词根 jur，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "harmon",
+    "word": "harmonious",
+    "prompt": "根据句意，选择最适合填入空格的词：The two systems are ________ with each other.",
+    "options": [
+      {
+        "word": "harmonize",
+        "meaning": "和谐；协调；相一致"
+      },
+      {
+        "word": "harmonious",
+        "meaning": "和睦的；融洽的；悦耳的"
+      },
+      {
+        "word": "harmony",
+        "meaning": "和睦；融洽"
+      },
+      {
+        "word": "harmonic",
+        "meaning": "和声的"
+      }
+    ],
+    "answer": "harmonious",
+    "explanation": "答案：harmonious（和睦的；融洽的；悦耳的）。其他选项同属词根 harmon，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "emphasis",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“重点”意思最相符的单词。",
+    "options": [
+      {
+        "word": "cheers",
+        "meaning": "干杯"
+      },
+      {
+        "word": "why",
+        "meaning": "用作连词和代词时在句中通常不作重读"
+      },
+      {
+        "word": "chimney",
+        "meaning": "烟囱"
+      },
+      {
+        "word": "emphasis",
+        "meaning": "重点"
+      }
+    ],
+    "answer": "emphasis",
+    "explanation": "答案：emphasis（重点）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vert",
+    "word": "Diverse",
+    "prompt": "根据句意，选择最适合填入空格的词：The relation of language and mind has interested philosophers for many centuries. (41) The Greeks assumed that the structure of language had some connection with the process of thought, which took root in Europe long before people realized how ________ languages could be.",
+    "options": [
+      {
+        "word": "avert",
+        "meaning": "转开；转移"
+      },
+      {
+        "word": "subvert",
+        "meaning": "推翻，颠覆"
+      },
+      {
+        "word": "Diverse",
+        "meaning": "和…不一样的"
+      },
+      {
+        "word": "reversal",
+        "meaning": "颠倒；翻转；逆转；反向"
+      }
+    ],
+    "answer": "Diverse",
+    "explanation": "答案：Diverse（和…不一样的）。其他选项同属词根 vert，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ject",
+    "word": "interjection",
+    "prompt": "根据句意，选择最适合填入空格的词：“Oh” is an ________ that expresses surprise.",
+    "options": [
+      {
+        "word": "projectionist",
+        "meaning": "投掷，发射，投影，投影图，设计，规划者，家"
+      },
+      {
+        "word": "Subject",
+        "meaning": "科目,主题,臣民,主语,题目,(事物的)经受者,学科,受治疗者,原因,理由；服从的,易患的,隶属的,受支配的；在条件下；使隶属,使受到；主题,主体"
+      },
+      {
+        "word": "ejector",
+        "meaning": "驱逐者；喷射器"
+      },
+      {
+        "word": "interjection",
+        "meaning": "插入，插入物；【插入句子中间的词 → 】感叹词，惊叹词"
+      }
+    ],
+    "answer": "interjection",
+    "explanation": "答案：interjection（插入，插入物；【插入句子中间的词 → 】感叹词，惊叹词）。其他选项同属词根 ject，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "now",
+    "prompt": "根据句意，选择最适合填入空格的词：But ________ most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+    "options": [
+      {
+        "word": "volume",
+        "meaning": "卷；册"
+      },
+      {
+        "word": "shut",
+        "meaning": "关闭；关上"
+      },
+      {
+        "word": "now",
+        "meaning": "现在"
+      },
+      {
+        "word": "night",
+        "meaning": "夜间"
+      }
+    ],
+    "answer": "now",
+    "explanation": "答案：now（现在）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "spir",
+    "word": "Expire",
+    "prompt": "根据句意，选择最适合填入空格的词：The process may ________ over time.",
+    "options": [
+      {
+        "word": "Expire",
+        "meaning": "呼出；吐气"
+      },
+      {
+        "word": "conspire",
+        "meaning": "共谋；阴谋"
+      },
+      {
+        "word": "spiritualist",
+        "meaning": "精神的者，家"
+      },
+      {
+        "word": "perspire",
+        "meaning": "出汗，排汗"
+      }
+    ],
+    "answer": "Expire",
+    "explanation": "答案：Expire（呼出；吐气）。其他选项同属词根 spir，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "val",
+    "word": "valuing",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“强的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "revalued",
+        "meaning": "再，重新，回强的；被动形式"
+      },
+      {
+        "word": "valuing",
+        "meaning": "强的"
+      },
+      {
+        "word": "evaluable",
+        "meaning": "强可的，能的"
+      },
+      {
+        "word": "undervaluation",
+        "meaning": "下，不足强行为，过程"
+      }
+    ],
+    "answer": "valuing",
+    "explanation": "答案：valuing（强的）。其他选项同属词根 val，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "stat",
+    "word": "stationery",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“文具”意思最相符的单词。",
+    "options": [
+      {
+        "word": "stationery",
+        "meaning": "文具"
+      },
+      {
+        "word": "hydrostatic",
+        "meaning": "流体静力学的；流体静力的"
+      },
+      {
+        "word": "Instant",
+        "meaning": "立即"
+      },
+      {
+        "word": "statue",
+        "meaning": "以雕像装饰；雕像"
+      }
+    ],
+    "answer": "stationery",
+    "explanation": "答案：stationery（文具）。其他选项同属词根 stat，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "defence",
+    "prompt": "根据句意，选择最适合填入空格的词：The core of her successful ________ was that she knew nothing.",
+    "options": [
+      {
+        "word": "pioneer",
+        "meaning": "先锋"
+      },
+      {
+        "word": "clay",
+        "meaning": "泥土"
+      },
+      {
+        "word": "defence",
+        "meaning": "美国英语中拼作"
+      },
+      {
+        "word": "steel",
+        "meaning": "钢,钢制品,钢铁,坚硬,坚固；钢的,钢制的,钢铁业的,坚强的；使坚强,钢化,使冷酷"
+      }
+    ],
+    "answer": "defence",
+    "explanation": "答案：defence（美国英语中拼作）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "merc",
+    "word": "Commercial",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“商业的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "merchandise",
+        "meaning": "经商，买卖 n."
+      },
+      {
+        "word": "merchant",
+        "meaning": "商人"
+      },
+      {
+        "word": "Commercial",
+        "meaning": "商业的"
+      },
+      {
+        "word": "mercenary",
+        "meaning": "唯利是图的 n."
+      }
+    ],
+    "answer": "Commercial",
+    "explanation": "答案：Commercial（商业的）。其他选项同属词根 merc，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "fry",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“油炸食物”意思最相符的单词。",
+    "options": [
+      {
+        "word": "fry",
+        "meaning": "油炸食物"
+      },
+      {
+        "word": "irritate",
+        "meaning": "激怒"
+      },
+      {
+        "word": "organizer",
+        "meaning": "英国英语亦用"
+      },
+      {
+        "word": "businesswoman",
+        "meaning": "商人"
+      }
+    ],
+    "answer": "fry",
+    "explanation": "答案：fry（油炸食物）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "par",
+    "word": "apparent",
+    "prompt": "根据句意，选择最适合填入空格的词：It is this ________ transcendence of politics that explains monarchs’ continuing popularity polarized.",
+    "options": [
+      {
+        "word": "peril",
+        "meaning": "危险；险境 v."
+      },
+      {
+        "word": "unpreparedness",
+        "meaning": "不，非，未生性质，状态"
+      },
+      {
+        "word": "apparent",
+        "meaning": "明显的；表面上的；外显的"
+      },
+      {
+        "word": "biparous",
+        "meaning": "双生的，一产双胎的"
+      }
+    ],
+    "answer": "apparent",
+    "explanation": "答案：apparent（明显的；表面上的；外显的）。其他选项同属词根 par，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pet",
+    "word": "pet",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“（词根）寻求，追求”意思最相符的单词。",
+    "options": [
+      {
+        "word": "competitive",
+        "meaning": "竞争的"
+      },
+      {
+        "word": "pet",
+        "meaning": "（词根）寻求，追求"
+      },
+      {
+        "word": "petitioner",
+        "meaning": "请求者；请愿人"
+      },
+      {
+        "word": "appetite",
+        "meaning": "欲望；爱好"
+      }
+    ],
+    "answer": "pet",
+    "explanation": "答案：pet（（词根）寻求，追求）。其他选项同属词根 pet，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "get",
+    "prompt": "根据句意，选择最适合填入空格的词：But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to ________ their low grades forgiven.",
+    "options": [
+      {
+        "word": "get",
+        "meaning": "改变"
+      },
+      {
+        "word": "borrow",
+        "meaning": "借"
+      },
+      {
+        "word": "employer",
+        "meaning": "雇主"
+      },
+      {
+        "word": "roof",
+        "meaning": "屋顶,室顶；给盖屋顶,遮蔽"
+      }
+    ],
+    "answer": "get",
+    "explanation": "答案：get（改变）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "tract",
+    "word": "abstractionist",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "detractor",
+        "meaning": "毁损者,贬低者"
+      },
+      {
+        "word": "attracting",
+        "meaning": "吸引的"
+      },
+      {
+        "word": "attracted",
+        "meaning": "吸引的；被动形式"
+      },
+      {
+        "word": "abstractionist",
+        "meaning": "抽象（化），提取，抽出，分离者，家"
+      }
+    ],
+    "answer": "abstractionist",
+    "explanation": "答案：abstractionist（抽象（化），提取，抽出，分离者，家）。其他选项同属词根 tract，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "unemployed",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“未受雇用的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "are",
+        "meaning": "的复数和第二人称单数现在时形式"
+      },
+      {
+        "word": "unemployed",
+        "meaning": "未受雇用的"
+      },
+      {
+        "word": "patriot",
+        "meaning": "爱国者；爱国主义者"
+      },
+      {
+        "word": "Compliment",
+        "meaning": "恭维"
+      }
+    ],
+    "answer": "unemployed",
+    "explanation": "答案：unemployed（未受雇用的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "downstairs",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“往楼下”意思最相符的单词。",
+    "options": [
+      {
+        "word": "dot",
+        "meaning": "点"
+      },
+      {
+        "word": "downstairs",
+        "meaning": "往楼下"
+      },
+      {
+        "word": "believe",
+        "meaning": "相信"
+      },
+      {
+        "word": "parody",
+        "meaning": "模仿滑稽作品"
+      }
+    ],
+    "answer": "downstairs",
+    "explanation": "答案：downstairs（往楼下）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "hunt",
+    "prompt": "根据句意，选择最适合填入空格的词：Were it not for opportunities to observe these beautiful wild creatures close to home many more people would be driven by their fascination to travel to wild areas to seek out disturb and even ________ them down.",
+    "options": [
+      {
+        "word": "hall",
+        "meaning": "门厅"
+      },
+      {
+        "word": "four",
+        "meaning": "四"
+      },
+      {
+        "word": "fumigate",
+        "meaning": "烟熏，熏蒸"
+      },
+      {
+        "word": "hunt",
+        "meaning": "搜寻"
+      }
+    ],
+    "answer": "hunt",
+    "explanation": "答案：hunt（搜寻）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Diabetes",
+    "prompt": "根据句意，选择最适合填入空格的词：The doctor treated the patient for ________.",
+    "options": [
+      {
+        "word": "grocer",
+        "meaning": "食品商"
+      },
+      {
+        "word": "sunburnt",
+        "meaning": "晒黑的"
+      },
+      {
+        "word": "Diabetes",
+        "meaning": "糖尿病"
+      },
+      {
+        "word": "mars",
+        "meaning": "火星"
+      }
+    ],
+    "answer": "Diabetes",
+    "explanation": "答案：Diabetes（糖尿病）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "equ",
+    "word": "unequally",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“不相等地；不公平地；不均匀地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "adequate",
+        "meaning": "胜任的"
+      },
+      {
+        "word": "unequally",
+        "meaning": "不相等地；不公平地；不均匀地"
+      },
+      {
+        "word": "equivocality",
+        "meaning": "多义性；含糊"
+      },
+      {
+        "word": "equation",
+        "meaning": "平均；相等；等式；方程式"
+      }
+    ],
+    "answer": "unequally",
+    "explanation": "答案：unequally（不相等地；不公平地；不均匀地）。其他选项同属词根 equ，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fer",
+    "word": "preferment",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "preferment",
+        "meaning": "更喜欢行为，结果"
+      },
+      {
+        "word": "videoconference",
+        "meaning": "视频会议"
+      },
+      {
+        "word": "conferencing",
+        "meaning": "召开会议"
+      },
+      {
+        "word": "Differ",
+        "meaning": "不同；相异"
+      }
+    ],
+    "answer": "preferment",
+    "explanation": "答案：preferment（更喜欢行为，结果）。其他选项同属词根 fer，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "cor",
+    "word": "encouragement",
+    "prompt": "根据句意，选择最适合填入空格的词：Alongside that, (48) many countries are introducing English into the primary-school curriculum but British schoolchildren and students do not appear to be gaining greater ________ to achieve fluency in other languages.",
+    "options": [
+      {
+        "word": "encouragement",
+        "meaning": "鼓励"
+      },
+      {
+        "word": "courage",
+        "meaning": "勇气,胆量"
+      },
+      {
+        "word": "Encourage",
+        "meaning": "鼓励"
+      },
+      {
+        "word": "Discourage",
+        "meaning": "使泄气，使失去信心"
+      }
+    ],
+    "answer": "encouragement",
+    "explanation": "答案：encouragement（鼓励）。其他选项同属词根 cor，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sum",
+    "word": "Presume",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“擅自；假定；设想”意思最相符的单词。",
+    "options": [
+      {
+        "word": "unconsummated",
+        "meaning": "未实现的,未完成的"
+      },
+      {
+        "word": "Presume",
+        "meaning": "擅自；假定；设想"
+      },
+      {
+        "word": "summarize",
+        "meaning": "概述,总结"
+      },
+      {
+        "word": "summarily",
+        "meaning": "概要地,概略地,立刻"
+      }
+    ],
+    "answer": "Presume",
+    "explanation": "答案：Presume（擅自；假定；设想）。其他选项同属词根 sum，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "dic",
+    "word": "indicative",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“指示的；象征的；陈述的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "indication",
+        "meaning": "指示；象征"
+      },
+      {
+        "word": "interdictory",
+        "meaning": "制止的，禁止的"
+      },
+      {
+        "word": "indicative",
+        "meaning": "指示的；象征的；陈述的"
+      },
+      {
+        "word": "addicting",
+        "meaning": "沉迷的"
+      }
+    ],
+    "answer": "indicative",
+    "explanation": "答案：indicative（指示的；象征的；陈述的）。其他选项同属词根 dic，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "beef",
+    "prompt": "根据句意，选择最适合填入空格的词：Yet as distrust has risen toward all media, people may be starting to ________ up their media literacy skills.",
+    "options": [
+      {
+        "word": "beef",
+        "meaning": "牛肉"
+      },
+      {
+        "word": "tent",
+        "meaning": "伸"
+      },
+      {
+        "word": "brand",
+        "meaning": "牌子"
+      },
+      {
+        "word": "armchair",
+        "meaning": "扶手椅"
+      }
+    ],
+    "answer": "beef",
+    "explanation": "答案：beef（牛肉）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "aids",
+    "prompt": "根据句意，选择最适合填入空格的词：The report discusses ________ as a public-health issue.",
+    "options": [
+      {
+        "word": "mighty",
+        "meaning": "强大的"
+      },
+      {
+        "word": "aids",
+        "meaning": "爱滋病(获得性免疫缺陷综合征)"
+      },
+      {
+        "word": "gain",
+        "meaning": "获得"
+      },
+      {
+        "word": "often",
+        "meaning": "用于动词前"
+      }
+    ],
+    "answer": "aids",
+    "explanation": "答案：aids（爱滋病(获得性免疫缺陷综合征)）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "domin",
+    "word": "dominate",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“支配，统治；俯视”意思最相符的单词。",
+    "options": [
+      {
+        "word": "dominion",
+        "meaning": "统治；统治权；领地，领土"
+      },
+      {
+        "word": "predominate",
+        "meaning": "占主导地位；占优势"
+      },
+      {
+        "word": "dominate",
+        "meaning": "支配，统治；俯视"
+      },
+      {
+        "word": "dominant",
+        "meaning": "占支配地位的；占优势的"
+      }
+    ],
+    "answer": "dominate",
+    "explanation": "答案：dominate（支配，统治；俯视）。其他选项同属词根 domin，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pet",
+    "word": "competitively",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“竞争地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "competition",
+        "meaning": "比赛；竞争"
+      },
+      {
+        "word": "competitively",
+        "meaning": "竞争地"
+      },
+      {
+        "word": "appetitive",
+        "meaning": "关于食欲的"
+      },
+      {
+        "word": "competence",
+        "meaning": "能力，技能；胜任；权限"
+      }
+    ],
+    "answer": "competitively",
+    "explanation": "答案：competitively（竞争地）。其他选项同属词根 pet，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "spec",
+    "word": "speculatively",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“思考地,思索地;投机地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "especial",
+        "meaning": "特别的，特殊的"
+      },
+      {
+        "word": "speculatively",
+        "meaning": "思考地,思索地;投机地"
+      },
+      {
+        "word": "conspecific",
+        "meaning": "同种的"
+      },
+      {
+        "word": "overspeculate",
+        "meaning": "投机过度"
+      }
+    ],
+    "answer": "speculatively",
+    "explanation": "答案：speculatively（思考地,思索地;投机地）。其他选项同属词根 spec，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "price",
+    "prompt": "根据句意，选择最适合填入空格的词：Likewise, automation should eventually boost productivity, stimulate demand by driving down ________, and free workers from hard, boring work.",
+    "options": [
+      {
+        "word": "price",
+        "meaning": "价格"
+      },
+      {
+        "word": "tremble",
+        "meaning": "战栗"
+      },
+      {
+        "word": "bell",
+        "meaning": "铃"
+      },
+      {
+        "word": "polyacid",
+        "meaning": "多元酸的"
+      }
+    ],
+    "answer": "price",
+    "explanation": "答案：price（价格）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "humility",
+    "prompt": "根据句意，选择最适合填入空格的词：________ requires you to recognize weakness in your own arguments and sometimes also to accept reasons on the opposite side.",
+    "options": [
+      {
+        "word": "bishop",
+        "meaning": "主教"
+      },
+      {
+        "word": "cooker",
+        "meaning": "炊事用具"
+      },
+      {
+        "word": "humility",
+        "meaning": "谦逊；谦恭"
+      },
+      {
+        "word": "humorous",
+        "meaning": "富幽默感的"
+      }
+    ],
+    "answer": "humility",
+    "explanation": "答案：humility（谦逊；谦恭）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "liber",
+    "word": "delivery",
+    "prompt": "根据句意，选择最适合填入空格的词：Also missing is any discussion of eliminating Saturday letter ________.",
+    "options": [
+      {
+        "word": "liberalize",
+        "meaning": "（使）自由化，（使）自由主义化"
+      },
+      {
+        "word": "deliberately",
+        "meaning": "故意地"
+      },
+      {
+        "word": "delivery",
+        "meaning": "交付；分发"
+      },
+      {
+        "word": "liberation",
+        "meaning": "释放"
+      }
+    ],
+    "answer": "delivery",
+    "explanation": "答案：delivery（交付；分发）。其他选项同属词根 liber，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ag",
+    "word": "proactive",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“〈心理〉前摄的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "proactive",
+        "meaning": "〈心理〉前摄的"
+      },
+      {
+        "word": "activated",
+        "meaning": "活性化的；活泼的"
+      },
+      {
+        "word": "action",
+        "meaning": "行动，活动"
+      },
+      {
+        "word": "agitate",
+        "meaning": "鼓动"
+      }
+    ],
+    "answer": "proactive",
+    "explanation": "答案：proactive（〈心理〉前摄的）。其他选项同属词根 ag，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ten",
+    "word": "intent",
+    "prompt": "根据句意，选择最适合填入空格的词：Merely helping a gift-giver gain access to other officials, unless done with clear ________ to pressure those officials, is not corruption, the justices found.",
+    "options": [
+      {
+        "word": "content",
+        "meaning": "内容,满足,意义,要旨；满足的,满意的；使满足,使安心；内容"
+      },
+      {
+        "word": "intent",
+        "meaning": "集中的；专心致志的 n."
+      },
+      {
+        "word": "obtain",
+        "meaning": "获取；取得"
+      },
+      {
+        "word": "Contain",
+        "meaning": "容纳；装得下"
+      }
+    ],
+    "answer": "intent",
+    "explanation": "答案：intent（集中的；专心致志的 n.）。其他选项同属词根 ten，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fer",
+    "word": "preferably",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“更可取地,更好地,更合意地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "refereed",
+        "meaning": "参考,提到的；被动形式"
+      },
+      {
+        "word": "differentially",
+        "meaning": "不同的，差别的，区别地"
+      },
+      {
+        "word": "sufferable",
+        "meaning": "可忍受的"
+      },
+      {
+        "word": "preferably",
+        "meaning": "更可取地,更好地,更合意地"
+      }
+    ],
+    "answer": "preferably",
+    "explanation": "答案：preferably（更可取地,更好地,更合意地）。其他选项同属词根 fer，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "phil",
+    "word": "hippophile",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "hippophile",
+        "meaning": "爱马者"
+      },
+      {
+        "word": "bibliophilist",
+        "meaning": "爱书者，书籍爱好者"
+      },
+      {
+        "word": "philosophizing",
+        "meaning": "爱的"
+      },
+      {
+        "word": "zoophilous",
+        "meaning": "爱护动物的"
+      }
+    ],
+    "answer": "hippophile",
+    "explanation": "答案：hippophile（爱马者）。其他选项同属词根 phil，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "electrical",
+    "prompt": "根据句意，选择最适合填入空格的词：The building needs a safer ________ system.",
+    "options": [
+      {
+        "word": "anyway",
+        "meaning": "无论如何"
+      },
+      {
+        "word": "electrical",
+        "meaning": "用电的"
+      },
+      {
+        "word": "feeling",
+        "meaning": "摸"
+      },
+      {
+        "word": "pound",
+        "meaning": "磅"
+      }
+    ],
+    "answer": "electrical",
+    "explanation": "答案：electrical（用电的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "stat",
+    "word": "stationing",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“驻军”意思最相符的单词。",
+    "options": [
+      {
+        "word": "stationing",
+        "meaning": "驻军"
+      },
+      {
+        "word": "Substance",
+        "meaning": "物质"
+      },
+      {
+        "word": "Substantial",
+        "meaning": "大量的"
+      },
+      {
+        "word": "statistician",
+        "meaning": "统计员,统计学家；统计家"
+      }
+    ],
+    "answer": "stationing",
+    "explanation": "答案：stationing（驻军）。其他选项同属词根 stat，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "gram",
+    "word": "gramophone",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“留声机”意思最相符的单词。",
+    "options": [
+      {
+        "word": "gramophone",
+        "meaning": "留声机"
+      },
+      {
+        "word": "monographic",
+        "meaning": "专题论文的"
+      },
+      {
+        "word": "iconography",
+        "meaning": "图像材料,图示法,肖像研究；影像学,影像塑造术"
+      },
+      {
+        "word": "telegraph",
+        "meaning": "电报"
+      }
+    ],
+    "answer": "gramophone",
+    "explanation": "答案：gramophone（留声机）。其他选项同属词根 gram，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "opt",
+    "word": "opticist",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "opera",
+        "meaning": "歌剧；歌剧院；歌剧艺术"
+      },
+      {
+        "word": "opt",
+        "meaning": "（词根）选择"
+      },
+      {
+        "word": "optic",
+        "meaning": "眼睛的,视觉的,光学的；镜片"
+      },
+      {
+        "word": "opticist",
+        "meaning": "光学家"
+      }
+    ],
+    "answer": "opticist",
+    "explanation": "答案：opticist（光学家）。其他选项同属词根 opt，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "gen",
+    "word": "ingeniously",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“精巧的、有独创性地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "genealogy",
+        "meaning": "系谱,宗谱,家系,世系,血统；家系,血统,家系学"
+      },
+      {
+        "word": "ingeniously",
+        "meaning": "精巧的、有独创性地"
+      },
+      {
+        "word": "indigenize",
+        "meaning": "使本地化,使本国化"
+      },
+      {
+        "word": "genital",
+        "meaning": "生殖的；生殖的,生殖器的"
+      }
+    ],
+    "answer": "ingeniously",
+    "explanation": "答案：ingeniously（精巧的、有独创性地）。其他选项同属词根 gen，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sed",
+    "word": "sed",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“（词根）坐”意思最相符的单词。",
+    "options": [
+      {
+        "word": "superseded",
+        "meaning": "被代替的,废弃的；取代,接替(的过去式和过去分词)"
+      },
+      {
+        "word": "sediment",
+        "meaning": "沉淀物,沉积；沉降物;沉积物"
+      },
+      {
+        "word": "sed",
+        "meaning": "（词根）坐"
+      },
+      {
+        "word": "sedimentary",
+        "meaning": "沉渣的,沉淀物的,由沉淀物所生成的；沉淀的,沉积的,沉降的"
+      }
+    ],
+    "answer": "sed",
+    "explanation": "答案：sed（（词根）坐）。其他选项同属词根 sed，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "lat",
+    "word": "Translation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "Translation",
+        "meaning": "翻译；译文"
+      },
+      {
+        "word": "dilate",
+        "meaning": "膨胀；扩大"
+      },
+      {
+        "word": "Relation",
+        "meaning": "联系；关系；叙述"
+      },
+      {
+        "word": "related",
+        "meaning": "讲述的,叙述的；有关系的,有关联的"
+      }
+    ],
+    "answer": "Translation",
+    "explanation": "答案：Translation（翻译；译文）。其他选项同属词根 lat，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Mist",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“薄雾”意思最相符的单词。",
+    "options": [
+      {
+        "word": "knee",
+        "meaning": "膝"
+      },
+      {
+        "word": "round",
+        "meaning": "圆"
+      },
+      {
+        "word": "recycling",
+        "meaning": "回收利用；回收的物品"
+      },
+      {
+        "word": "Mist",
+        "meaning": "薄雾"
+      }
+    ],
+    "answer": "Mist",
+    "explanation": "答案：Mist（薄雾）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "means",
+    "prompt": "根据句意，选择最适合填入空格的词：If we readjust our view of arguments –from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect, and understanding—then we change the very nature of what it ________ to “win” an argument.",
+    "options": [
+      {
+        "word": "everyday",
+        "meaning": "每天的"
+      },
+      {
+        "word": "identical",
+        "meaning": "完全相同的"
+      },
+      {
+        "word": "goodbye",
+        "meaning": "再见"
+      },
+      {
+        "word": "means",
+        "meaning": "方法"
+      }
+    ],
+    "answer": "means",
+    "explanation": "答案：means（方法）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "they",
+    "prompt": "根据句意，选择最适合填入空格的词：In other words, ________ all share a view that the international tax system has failed to keep up with the current economy.",
+    "options": [
+      {
+        "word": "they",
+        "meaning": "是第三人称复数代词"
+      },
+      {
+        "word": "conciliatory",
+        "meaning": "抚慰的，安抚的"
+      },
+      {
+        "word": "rice",
+        "meaning": "米"
+      },
+      {
+        "word": "numb",
+        "meaning": "麻木的"
+      }
+    ],
+    "answer": "they",
+    "explanation": "答案：they（是第三人称复数代词）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "firm",
+    "word": "affirmative",
+    "prompt": "根据句意，选择最适合填入空格的词：Only a minority of respondents gave an ________ answer to the final question.",
+    "options": [
+      {
+        "word": "infirmary",
+        "meaning": "医务室"
+      },
+      {
+        "word": "affirmative",
+        "meaning": "肯定的；赞成的"
+      },
+      {
+        "word": "infirmity",
+        "meaning": "虚弱,病身,疾病；衰弱"
+      },
+      {
+        "word": "reaffirm",
+        "meaning": "重申；再次确认"
+      }
+    ],
+    "answer": "affirmative",
+    "explanation": "答案：affirmative（肯定的；赞成的）。其他选项同属词根 firm，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "stit",
+    "word": "Constituent",
+    "prompt": "根据句意，选择最适合填入空格的词：Elected leaders must be allowed to help supporters deal with bureaucratic problems without fear of prosecution of bribery.” The basic compact underlying representative government,” wrote Chief Justice John Roberts for the court,” assumes that public officials will hear from their ________ and act on their concerns.”",
+    "options": [
+      {
+        "word": "institutionalism",
+        "meaning": "（有关宗教等的）现有制度优越论；（老人等的）由公共机构收容救济"
+      },
+      {
+        "word": "substitutionary",
+        "meaning": "同"
+      },
+      {
+        "word": "prostitution",
+        "meaning": "卖淫,糟蹋,滥用；卖淫,滥用"
+      },
+      {
+        "word": "Constituent",
+        "meaning": "成分"
+      }
+    ],
+    "answer": "Constituent",
+    "explanation": "答案：Constituent（成分）。其他选项同属词根 stit，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "bank",
+    "prompt": "根据句意，选择最适合填入空格的词：Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their ________ are under investigation for wrongdoing.",
+    "options": [
+      {
+        "word": "bank",
+        "meaning": "银行"
+      },
+      {
+        "word": "tide",
+        "meaning": "潮水、潮流"
+      },
+      {
+        "word": "colour",
+        "meaning": "美国英语用"
+      },
+      {
+        "word": "madame",
+        "meaning": "夫人"
+      }
+    ],
+    "answer": "bank",
+    "explanation": "答案：bank（银行）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sci",
+    "word": "scientism",
+    "prompt": "根据句意，选择最适合填入空格的词：The report presents new evidence about ________.",
+    "options": [
+      {
+        "word": "Conscious",
+        "meaning": "有意识的；有感觉的"
+      },
+      {
+        "word": "scientism",
+        "meaning": "科学态度；科学方法"
+      },
+      {
+        "word": "subconscious",
+        "meaning": "下意识的；潜意识的"
+      },
+      {
+        "word": "omniscient",
+        "meaning": "无所不知的"
+      }
+    ],
+    "answer": "scientism",
+    "explanation": "答案：scientism（科学态度；科学方法）。其他选项同属词根 sci，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "june",
+    "prompt": "根据句意，选择最适合填入空格的词：On ________ 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate international norms.",
+    "options": [
+      {
+        "word": "june",
+        "meaning": "六月"
+      },
+      {
+        "word": "botany",
+        "meaning": "植物学"
+      },
+      {
+        "word": "Obey",
+        "meaning": "听从，服从"
+      },
+      {
+        "word": "play",
+        "meaning": "玩"
+      }
+    ],
+    "answer": "june",
+    "explanation": "答案：june（六月）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "rise",
+    "prompt": "根据句意，选择最适合填入空格的词：Rested in the Pacific Ocean, Mauna Kea’s peak ________ above the bulk of our planet’s dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity.",
+    "options": [
+      {
+        "word": "rise",
+        "meaning": "上升"
+      },
+      {
+        "word": "update",
+        "meaning": "更新,使现代化；更新"
+      },
+      {
+        "word": "gratuitous",
+        "meaning": "免费的；无缘无故的"
+      },
+      {
+        "word": "among",
+        "meaning": "在之中"
+      }
+    ],
+    "answer": "rise",
+    "explanation": "答案：rise（上升）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "homework",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "handful",
+        "meaning": "少数"
+      },
+      {
+        "word": "Intimate",
+        "meaning": "亲密的"
+      },
+      {
+        "word": "homework",
+        "meaning": "家庭作业"
+      },
+      {
+        "word": "photo",
+        "meaning": "同"
+      }
+    ],
+    "answer": "homework",
+    "explanation": "答案：homework（家庭作业）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "phon",
+    "word": "cellphone",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“蜂窝式便携无线电话；大哥大”意思最相符的单词。",
+    "options": [
+      {
+        "word": "otophone",
+        "meaning": "助听器"
+      },
+      {
+        "word": "symphonic",
+        "meaning": "交响乐的"
+      },
+      {
+        "word": "cellphone",
+        "meaning": "蜂窝式便携无线电话；大哥大"
+      },
+      {
+        "word": "telephony",
+        "meaning": "电话学,电话通信,电话制造；电话学"
+      }
+    ],
+    "answer": "cellphone",
+    "explanation": "答案：cellphone（蜂窝式便携无线电话；大哥大）。其他选项同属词根 phon，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "harmon",
+    "word": "harmonic",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“和声的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "harmonious",
+        "meaning": "和睦的；融洽的；悦耳的"
+      },
+      {
+        "word": "harmony",
+        "meaning": "和睦；融洽"
+      },
+      {
+        "word": "harmonize",
+        "meaning": "和谐；协调；相一致"
+      },
+      {
+        "word": "harmonic",
+        "meaning": "和声的"
+      }
+    ],
+    "answer": "harmonic",
+    "explanation": "答案：harmonic（和声的）。其他选项同属词根 harmon，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "form",
+    "word": "Information",
+    "prompt": "根据句意，选择最适合填入空格的词：In addition, new digital technologies have allowed more rapid trading of equities, quicker use of ________, and thus shorter attention spans in financial markets.",
+    "options": [
+      {
+        "word": "conformity",
+        "meaning": "遵照，顺从；相似；一致"
+      },
+      {
+        "word": "Reform",
+        "meaning": "变革"
+      },
+      {
+        "word": "Conform",
+        "meaning": "相似，一致"
+      },
+      {
+        "word": "Information",
+        "meaning": "消息；信息；资料；通知"
+      }
+    ],
+    "answer": "Information",
+    "explanation": "答案：Information（消息；信息；资料；通知）。其他选项同属词根 form，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sent",
+    "word": "overrepresentation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "sensible",
+        "meaning": "感觉得到的"
+      },
+      {
+        "word": "insensible",
+        "meaning": "无感觉的"
+      },
+      {
+        "word": "sense",
+        "meaning": "感应"
+      },
+      {
+        "word": "overrepresentation",
+        "meaning": "过度，在上存在行为，过程"
+      }
+    ],
+    "answer": "overrepresentation",
+    "explanation": "答案：overrepresentation（过度，在上存在行为，过程）。其他选项同属词根 sent，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vict",
+    "word": "Convict",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“证明或宣告…有罪 n.”意思最相符的单词。",
+    "options": [
+      {
+        "word": "Convict",
+        "meaning": "证明或宣告…有罪 n."
+      },
+      {
+        "word": "victor",
+        "meaning": "征服者；胜利者"
+      },
+      {
+        "word": "evict",
+        "meaning": "驱逐；逐出；追回"
+      },
+      {
+        "word": "Conviction",
+        "meaning": "定罪"
+      }
+    ],
+    "answer": "Convict",
+    "explanation": "答案：Convict（证明或宣告…有罪 n.）。其他选项同属词根 vict，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "himself",
+    "prompt": "根据句意，选择最适合填入空格的词：He taught ________ shorthand to get an even better job later as a court stenographer and as a reporter in Parliament.",
+    "options": [
+      {
+        "word": "club",
+        "meaning": "俱乐部"
+      },
+      {
+        "word": "himself",
+        "meaning": "他自己"
+      },
+      {
+        "word": "helpful",
+        "meaning": "有帮助的"
+      },
+      {
+        "word": "exterminate",
+        "meaning": "消灭；扑灭；根除；灭绝"
+      }
+    ],
+    "answer": "himself",
+    "explanation": "答案：himself（他自己）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "argue",
+    "prompt": "根据句意，选择最适合填入空格的词：The first step, as Erik Brynjolfsson and Andrew McAfee ________ in The Second Machine Age, should be rethinking education and job training.",
+    "options": [
+      {
+        "word": "argue",
+        "meaning": "提出理由"
+      },
+      {
+        "word": "weight",
+        "meaning": "重"
+      },
+      {
+        "word": "wound",
+        "meaning": "创伤"
+      },
+      {
+        "word": "alongside",
+        "meaning": "在…旁边"
+      }
+    ],
+    "answer": "argue",
+    "explanation": "答案：argue（提出理由）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pel",
+    "word": "impeller",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "impeller",
+        "meaning": "推动者；推动器"
+      },
+      {
+        "word": "expellant",
+        "meaning": "驱除的；排毒的"
+      },
+      {
+        "word": "propellent",
+        "meaning": "推进的,有推动力的；推进员,发射剂,火箭燃料,推进剂"
+      },
+      {
+        "word": "Compulsory",
+        "meaning": "强迫的，强制的；必需的，义务的"
+      }
+    ],
+    "answer": "impeller",
+    "explanation": "答案：impeller（推动者；推动器）。其他选项同属词根 pel，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sist",
+    "word": "resist",
+    "prompt": "根据句意，选择最适合填入空格的词：Pat Hardy, who sympathized with views of the energy sector, is ________ the proposed change to science standards for pre-teen pupils.",
+    "options": [
+      {
+        "word": "subsist",
+        "meaning": "坚持；维持"
+      },
+      {
+        "word": "insist",
+        "meaning": "坚决主张；坚持认为"
+      },
+      {
+        "word": "resist",
+        "meaning": "反对；抵抗"
+      },
+      {
+        "word": "assistance",
+        "meaning": "帮助；援助"
+      }
+    ],
+    "answer": "resist",
+    "explanation": "答案：resist（反对；抵抗）。其他选项同属词根 sist，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fac",
+    "word": "surfaced",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“成平面的；刨平的；刨光的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "perfection",
+        "meaning": "尽善尽美"
+      },
+      {
+        "word": "faceless",
+        "meaning": "无面的,无个性的,匿名的,无名的"
+      },
+      {
+        "word": "surfaced",
+        "meaning": "成平面的；刨平的；刨光的"
+      },
+      {
+        "word": "faculty",
+        "meaning": "能力，本领"
+      }
+    ],
+    "answer": "surfaced",
+    "explanation": "答案：surfaced（成平面的；刨平的；刨光的）。其他选项同属词根 fac，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "stability",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "Distil",
+        "meaning": "蒸馏"
+      },
+      {
+        "word": "stability",
+        "meaning": "稳定性"
+      },
+      {
+        "word": "draft",
+        "meaning": "草稿"
+      },
+      {
+        "word": "disability",
+        "meaning": "残疾"
+      }
+    ],
+    "answer": "stability",
+    "explanation": "答案：stability（稳定性）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "say",
+    "prompt": "根据句意，选择最适合填入空格的词：“Short-termism” or the desire for quick profits, has worsened in publicly traded companies, ________ the Bank of England’s top economist, Andrew Haldane.",
+    "options": [
+      {
+        "word": "cannon",
+        "meaning": "大炮"
+      },
+      {
+        "word": "say",
+        "meaning": "说"
+      },
+      {
+        "word": "forth",
+        "meaning": "往前"
+      },
+      {
+        "word": "calculate",
+        "meaning": "计算"
+      }
+    ],
+    "answer": "say",
+    "explanation": "答案：say（说）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "perceptible",
+    "prompt": "根据句意，选择最适合填入空格的词：The other ship was barely ________ in the fog.",
+    "options": [
+      {
+        "word": "selfish",
+        "meaning": "自私的"
+      },
+      {
+        "word": "perceptible",
+        "meaning": "察觉得到的；看得出的；可领悟的"
+      },
+      {
+        "word": "recycling",
+        "meaning": "回收利用；回收的物品"
+      },
+      {
+        "word": "mixture",
+        "meaning": "混合；混合状态；混合物"
+      }
+    ],
+    "answer": "perceptible",
+    "explanation": "答案：perceptible（察觉得到的；看得出的；可领悟的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "plac",
+    "word": "Replace",
+    "prompt": "根据句意，选择最适合填入空格的词：Although good TV shows can help stir children's interest in conservation, they cannot ________ the excitement of a zoo visit as an intense, immersive and interactive experience.",
+    "options": [
+      {
+        "word": "pleasant",
+        "meaning": "愉快的，快乐的；活泼的，可爱的"
+      },
+      {
+        "word": "replaced",
+        "meaning": "取代；替换；放回（的过去分词）"
+      },
+      {
+        "word": "pleased",
+        "meaning": "高兴的"
+      },
+      {
+        "word": "Replace",
+        "meaning": "代替"
+      }
+    ],
+    "answer": "Replace",
+    "explanation": "答案：Replace（代替）。其他选项同属词根 plac，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "dog",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“狗”意思最相符的单词。",
+    "options": [
+      {
+        "word": "bound",
+        "meaning": "必定 2"
+      },
+      {
+        "word": "time",
+        "meaning": "时间"
+      },
+      {
+        "word": "bean",
+        "meaning": "豆子"
+      },
+      {
+        "word": "dog",
+        "meaning": "狗"
+      }
+    ],
+    "answer": "dog",
+    "explanation": "答案：dog（狗）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "press",
+    "word": "oppression",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "impress",
+        "meaning": "压印；印"
+      },
+      {
+        "word": "repressive",
+        "meaning": "抑制的，压制的，强制性的"
+      },
+      {
+        "word": "oppression",
+        "meaning": "压迫；压抑，沉闷"
+      },
+      {
+        "word": "compression",
+        "meaning": "压紧，压缩；简练的措辞"
+      }
+    ],
+    "answer": "oppression",
+    "explanation": "答案：oppression（压迫；压抑，沉闷）。其他选项同属词根 press，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "kind",
+    "prompt": "根据句意，选择最适合填入空格的词：This ________ of thinking is why so many people try to avoid arguments, especially about politics and religion.",
+    "options": [
+      {
+        "word": "old",
+        "meaning": "年老的"
+      },
+      {
+        "word": "kind",
+        "meaning": "名词用法和短语 2"
+      },
+      {
+        "word": "rugby",
+        "meaning": "英式橄榄球"
+      },
+      {
+        "word": "narrow",
+        "meaning": "狭窄部分"
+      }
+    ],
+    "answer": "kind",
+    "explanation": "答案：kind（名词用法和短语 2）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "leap",
+    "prompt": "根据句意，选择最适合填入空格的词：The process may ________ over time.",
+    "options": [
+      {
+        "word": "dream",
+        "meaning": "梦"
+      },
+      {
+        "word": "leap",
+        "meaning": "英国英语通常用"
+      },
+      {
+        "word": "tube",
+        "meaning": "管"
+      },
+      {
+        "word": "accelerate",
+        "meaning": "加速"
+      }
+    ],
+    "answer": "leap",
+    "explanation": "答案：leap（英国英语通常用）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fanc",
+    "word": "fancy",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“想象，想象力；希望，喜欢”意思最相符的单词。",
+    "options": [
+      {
+        "word": "Infant",
+        "meaning": "婴儿；幼儿"
+      },
+      {
+        "word": "fancy",
+        "meaning": "想象，想象力；希望，喜欢"
+      },
+      {
+        "word": "fantasy",
+        "meaning": "幻想；想象；幻想故事"
+      },
+      {
+        "word": "fanciful",
+        "meaning": "幻想的；怪诞的；奇异的"
+      }
+    ],
+    "answer": "fancy",
+    "explanation": "答案：fancy（想象，想象力；希望，喜欢）。其他选项同属词根 fanc，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ject",
+    "word": "Inject",
+    "prompt": "根据句意，选择最适合填入空格的词：The doctor ________ the medicine into the patient's arm.",
+    "options": [
+      {
+        "word": "Inject",
+        "meaning": "注射"
+      },
+      {
+        "word": "conjecture",
+        "meaning": "推测,猜想,揣摩；推测;猜测"
+      },
+      {
+        "word": "conjectural",
+        "meaning": "推测的,好推测的"
+      },
+      {
+        "word": "dejected",
+        "meaning": "沮丧的；情绪低落的"
+      }
+    ],
+    "answer": "Inject",
+    "explanation": "答案：Inject（注射）。其他选项同属词根 ject，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "hometown",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“故乡”意思最相符的单词。",
+    "options": [
+      {
+        "word": "hometown",
+        "meaning": "故乡"
+      },
+      {
+        "word": "ride",
+        "meaning": "骑马"
+      },
+      {
+        "word": "valuation",
+        "meaning": "估价"
+      },
+      {
+        "word": "unfit",
+        "meaning": "不适当的"
+      }
+    ],
+    "answer": "hometown",
+    "explanation": "答案：hometown（故乡）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "magn",
+    "word": "magniloquent",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“唱高调的；夸张的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "magnificent",
+        "meaning": "壮丽的；宏伟的；豪华的"
+      },
+      {
+        "word": "magniloquent",
+        "meaning": "唱高调的；夸张的"
+      },
+      {
+        "word": "magnifiable",
+        "meaning": "可放大的"
+      },
+      {
+        "word": "magnified",
+        "meaning": "大的；被动形式"
+      }
+    ],
+    "answer": "magniloquent",
+    "explanation": "答案：magniloquent（唱高调的；夸张的）。其他选项同属词根 magn，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "val",
+    "word": "devaluation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "value",
+        "meaning": "重要性"
+      },
+      {
+        "word": "validation",
+        "meaning": "验证"
+      },
+      {
+        "word": "devaluation",
+        "meaning": "贬值"
+      },
+      {
+        "word": "validating",
+        "meaning": "强的"
+      }
+    ],
+    "answer": "devaluation",
+    "explanation": "答案：devaluation（贬值）。其他选项同属词根 val，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "son",
+    "word": "consonant",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“谐音的；辅音的 n.”意思最相符的单词。",
+    "options": [
+      {
+        "word": "consonant",
+        "meaning": "谐音的；辅音的 n."
+      },
+      {
+        "word": "unisonous",
+        "meaning": "同音的，一致的"
+      },
+      {
+        "word": "unisonant",
+        "meaning": "一致的；［音］同音的；同度的"
+      },
+      {
+        "word": "stereosonic",
+        "meaning": "立体声的"
+      }
+    ],
+    "answer": "consonant",
+    "explanation": "答案：consonant（谐音的；辅音的 n.）。其他选项同属词根 son，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "solut",
+    "word": "solvent",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "absolutely",
+        "meaning": "完全地"
+      },
+      {
+        "word": "solvent",
+        "meaning": "有清偿能力的"
+      },
+      {
+        "word": "solve",
+        "meaning": "解决；解释；解答"
+      },
+      {
+        "word": "absolve",
+        "meaning": "宣告无罪,赦免,免除；免偿(债务),解除"
+      }
+    ],
+    "answer": "solvent",
+    "explanation": "答案：solvent（有清偿能力的）。其他选项同属词根 solut，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "jud",
+    "word": "judgeship",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "judgeship",
+        "meaning": "法官地位；法官的职权,任期或地位"
+      },
+      {
+        "word": "Prejudice",
+        "meaning": "偏见"
+      },
+      {
+        "word": "misjudgment",
+        "meaning": "估计错误；判断错误（等于）"
+      },
+      {
+        "word": "adjudicative",
+        "meaning": "判决的,宣告的；判决的,审判的,裁定的"
+      }
+    ],
+    "answer": "judgeship",
+    "explanation": "答案：judgeship（法官地位；法官的职权,任期或地位）。其他选项同属词根 jud，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "lev",
+    "word": "elevated",
+    "prompt": "根据句意，选择最适合填入空格的词：The report found ________ levels of air pollution near the factory.",
+    "options": [
+      {
+        "word": "elevated",
+        "meaning": "提高的"
+      },
+      {
+        "word": "irrelevancy",
+        "meaning": "无关,离题,不中肯,不相干,不相干的话,无关的事实,枝节问题；无关联的事,离题,不相平"
+      },
+      {
+        "word": "levying",
+        "meaning": "征税；征收"
+      },
+      {
+        "word": "alleviate",
+        "meaning": "减轻；缓和（痛苦、问题等）"
+      }
+    ],
+    "answer": "elevated",
+    "explanation": "答案：elevated（提高的）。其他选项同属词根 lev，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "bacteria",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“细菌”意思最相符的单词。",
+    "options": [
+      {
+        "word": "steady",
+        "meaning": "稳定的"
+      },
+      {
+        "word": "bacteria",
+        "meaning": "细菌"
+      },
+      {
+        "word": "finding",
+        "meaning": "发现、调查结果"
+      },
+      {
+        "word": "twin",
+        "meaning": "双胞胎之一"
+      }
+    ],
+    "answer": "bacteria",
+    "explanation": "答案：bacteria（细菌）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "medi",
+    "word": "medium",
+    "prompt": "根据句意，选择最适合填入空格的词：But in the ________ term, middle-class workers may need a lot of help adjusting.",
+    "options": [
+      {
+        "word": "Intermediate",
+        "meaning": "居中的"
+      },
+      {
+        "word": "medium",
+        "meaning": "媒介物"
+      },
+      {
+        "word": "immediately",
+        "meaning": "立即；马上"
+      },
+      {
+        "word": "mediocre",
+        "meaning": "中等的；普普通通的；平庸的"
+      }
+    ],
+    "answer": "medium",
+    "explanation": "答案：medium（媒介物）。其他选项同属词根 medi，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "dyn",
+    "word": "dynamic",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“力的；动力的；精力充沛的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "dynasty",
+        "meaning": "朝代；王朝"
+      },
+      {
+        "word": "dynamo",
+        "meaning": "发电机；精力充沛的人"
+      },
+      {
+        "word": "dynamic",
+        "meaning": "力的；动力的；精力充沛的"
+      },
+      {
+        "word": "style",
+        "meaning": "行为方式"
+      }
+    ],
+    "answer": "dynamic",
+    "explanation": "答案：dynamic（力的；动力的；精力充沛的）。其他选项同属词根 dyn，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "duc",
+    "word": "inducement",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "semiconductor",
+        "meaning": "半导体 A"
+      },
+      {
+        "word": "condutor",
+        "meaning": "指导者；管理者；指挥；导体"
+      },
+      {
+        "word": "seduction",
+        "meaning": "诱惑；勾引；［复］诱惑力"
+      },
+      {
+        "word": "inducement",
+        "meaning": "诱导"
+      }
+    ],
+    "answer": "inducement",
+    "explanation": "答案：inducement（诱导）。其他选项同属词根 duc，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "elite",
+    "prompt": "根据句意，选择最适合填入空格的词：In order to ensure that ________ women have more such opportunities, they have proposed imposing government quotas.",
+    "options": [
+      {
+        "word": "elite",
+        "meaning": "精英"
+      },
+      {
+        "word": "custom",
+        "meaning": "风俗"
+      },
+      {
+        "word": "allow",
+        "meaning": "允许"
+      },
+      {
+        "word": "world",
+        "meaning": "世界"
+      }
+    ],
+    "answer": "elite",
+    "explanation": "答案：elite（精英）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sent",
+    "word": "sensory",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“感觉的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "sensory",
+        "meaning": "感觉的"
+      },
+      {
+        "word": "dissenter",
+        "meaning": "不同意者，反对者，持异议者"
+      },
+      {
+        "word": "senseless",
+        "meaning": "无知觉的；无感觉的"
+      },
+      {
+        "word": "insensitive",
+        "meaning": "不敏感的"
+      }
+    ],
+    "answer": "sensory",
+    "explanation": "答案：sensory（感觉的）。其他选项同属词根 sent，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "phon",
+    "word": "microphone",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“扩音器,麦克风；扩音器,传声器”意思最相符的单词。",
+    "options": [
+      {
+        "word": "phonetist",
+        "meaning": "语音学家"
+      },
+      {
+        "word": "phon",
+        "meaning": "（词根）声音"
+      },
+      {
+        "word": "microphone",
+        "meaning": "扩音器,麦克风；扩音器,传声器"
+      },
+      {
+        "word": "symphonious",
+        "meaning": "和声的,和谐的,调和的"
+      }
+    ],
+    "answer": "microphone",
+    "explanation": "答案：microphone（扩音器,麦克风；扩音器,传声器）。其他选项同属词根 phon，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "northern",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "luggage",
+        "meaning": "行李"
+      },
+      {
+        "word": "northern",
+        "meaning": "北方人；北方的"
+      },
+      {
+        "word": "dolorous",
+        "meaning": "忧伤的；悲痛的"
+      },
+      {
+        "word": "tuesday",
+        "meaning": "星期二"
+      }
+    ],
+    "answer": "northern",
+    "explanation": "答案：northern（北方人；北方的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "road",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“路”意思最相符的单词。",
+    "options": [
+      {
+        "word": "road",
+        "meaning": "路"
+      },
+      {
+        "word": "dot",
+        "meaning": "点"
+      },
+      {
+        "word": "south",
+        "meaning": "南"
+      },
+      {
+        "word": "motivate",
+        "meaning": "促动；激发"
+      }
+    ],
+    "answer": "road",
+    "explanation": "答案：road（路）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "sorry",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“对不起”意思最相符的单词。",
+    "options": [
+      {
+        "word": "pair",
+        "meaning": "一双，一对；一对男女"
+      },
+      {
+        "word": "grown",
+        "meaning": "成熟的"
+      },
+      {
+        "word": "hire",
+        "meaning": "租金"
+      },
+      {
+        "word": "sorry",
+        "meaning": "对不起"
+      }
+    ],
+    "answer": "sorry",
+    "explanation": "答案：sorry（对不起）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "budget",
+    "prompt": "根据句意，选择最适合填入空格的词：The government has allocated a large ________ for education.",
+    "options": [
+      {
+        "word": "tidy",
+        "meaning": "椅子的背罩"
+      },
+      {
+        "word": "worried",
+        "meaning": "担心的"
+      },
+      {
+        "word": "dawn",
+        "meaning": "黎明"
+      },
+      {
+        "word": "budget",
+        "meaning": "预算"
+      }
+    ],
+    "answer": "budget",
+    "explanation": "答案：budget（预算）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "firm",
+    "word": "reaffirmation",
+    "prompt": "根据句意，选择最适合填入空格的词：The agreement represented a ________ of both countries' commitment to scientific cooperation.",
+    "options": [
+      {
+        "word": "infirmity",
+        "meaning": "虚弱,病身,疾病；衰弱"
+      },
+      {
+        "word": "reaffirmation",
+        "meaning": "重申；再次确认"
+      },
+      {
+        "word": "firmly",
+        "meaning": "牢固地"
+      },
+      {
+        "word": "infirm",
+        "meaning": "体弱的，虚弱的"
+      }
+    ],
+    "answer": "reaffirmation",
+    "explanation": "答案：reaffirmation（重申；再次确认）。其他选项同属词根 firm，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "memor",
+    "word": "memorize",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“记住；熟记”意思最相符的单词。",
+    "options": [
+      {
+        "word": "memorize",
+        "meaning": "记住；熟记"
+      },
+      {
+        "word": "memorandum",
+        "meaning": "备忘录"
+      },
+      {
+        "word": "Remember",
+        "meaning": "回忆；记住"
+      },
+      {
+        "word": "memory",
+        "meaning": "记忆，记忆力"
+      }
+    ],
+    "answer": "memorize",
+    "explanation": "答案：memorize（记住；熟记）。其他选项同属词根 memor，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "wrist",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“手腕”意思最相符的单词。",
+    "options": [
+      {
+        "word": "wrist",
+        "meaning": "手腕"
+      },
+      {
+        "word": "pants",
+        "meaning": "内裤"
+      },
+      {
+        "word": "measure",
+        "meaning": "尺寸"
+      },
+      {
+        "word": "london",
+        "meaning": "伦敦"
+      }
+    ],
+    "answer": "wrist",
+    "explanation": "答案：wrist（手腕）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fanc",
+    "word": "Infant",
+    "prompt": "根据句意，选择最适合填入空格的词：We know that a typical ________ will instinctively gaze into its mother's eyes, and she will look back.",
+    "options": [
+      {
+        "word": "fancy",
+        "meaning": "想象，想象力；希望，喜欢"
+      },
+      {
+        "word": "Infant",
+        "meaning": "婴儿；幼儿"
+      },
+      {
+        "word": "fantasy",
+        "meaning": "幻想；想象；幻想故事"
+      },
+      {
+        "word": "fantastic",
+        "meaning": "不切实际的；极大的；极有趣的"
+      }
+    ],
+    "answer": "Infant",
+    "explanation": "答案：Infant（婴儿；幼儿）。其他选项同属词根 fanc，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "nat",
+    "word": "preternaturally",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“前，预先诞生地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "preternaturally",
+        "meaning": "前，预先诞生地"
+      },
+      {
+        "word": "transnationalism",
+        "meaning": "跨，超越诞生主义，学说"
+      },
+      {
+        "word": "nationalization",
+        "meaning": "诞生行为，过程"
+      },
+      {
+        "word": "antenatal",
+        "meaning": "出生前的"
+      }
+    ],
+    "answer": "preternaturally",
+    "explanation": "答案：preternaturally（前，预先诞生地）。其他选项同属词根 nat，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "solut",
+    "word": "Resolute",
+    "prompt": "根据句意，选择最适合填入空格的词：The student was ________ during the discussion.",
+    "options": [
+      {
+        "word": "solution",
+        "meaning": "解决方法"
+      },
+      {
+        "word": "resolve",
+        "meaning": "解决"
+      },
+      {
+        "word": "Resolute",
+        "meaning": "坚决的；勇敢的；断然的"
+      },
+      {
+        "word": "absolute",
+        "meaning": "完全的"
+      }
+    ],
+    "answer": "Resolute",
+    "explanation": "答案：Resolute（坚决的；勇敢的；断然的）。其他选项同属词根 solut，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "man",
+    "word": "management",
+    "prompt": "根据句意，选择最适合填入空格的词：The premise was that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by ________.",
+    "options": [
+      {
+        "word": "permanent",
+        "meaning": "永久的；持久的"
+      },
+      {
+        "word": "manacle",
+        "meaning": "手铐"
+      },
+      {
+        "word": "management",
+        "meaning": "管理；管理方法；管理层"
+      },
+      {
+        "word": "manage",
+        "meaning": "操纵；控制"
+      }
+    ],
+    "answer": "management",
+    "explanation": "答案：management（管理；管理方法；管理层）。其他选项同属词根 man，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sent",
+    "word": "assentor",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "sensuous",
+        "meaning": "感官方面的"
+      },
+      {
+        "word": "assent",
+        "meaning": "同意"
+      },
+      {
+        "word": "assentor",
+        "meaning": "同意者，赞成者"
+      },
+      {
+        "word": "absentminded",
+        "meaning": "存在的；被动形式"
+      }
+    ],
+    "answer": "assentor",
+    "explanation": "答案：assentor（同意者，赞成者）。其他选项同属词根 sent，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "queen",
+    "prompt": "根据句意，选择最适合填入空格的词：It is only the ________ who has preserved the monarchy’s reputation with her rather ordinary (if well-heeled) granny style.",
+    "options": [
+      {
+        "word": "condition",
+        "meaning": "情况"
+      },
+      {
+        "word": "embassy",
+        "meaning": "使馆官员"
+      },
+      {
+        "word": "westerner",
+        "meaning": "西方人"
+      },
+      {
+        "word": "queen",
+        "meaning": "王后"
+      }
+    ],
+    "answer": "queen",
+    "explanation": "答案：queen（王后）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "flu",
+    "word": "Influential",
+    "prompt": "根据句意，选择最适合填入空格的词：The paper was ________ in shaping later research.",
+    "options": [
+      {
+        "word": "circumfluent",
+        "meaning": "周流的，环流的"
+      },
+      {
+        "word": "afflux",
+        "meaning": "流向，流入"
+      },
+      {
+        "word": "influencing",
+        "meaning": "影响的"
+      },
+      {
+        "word": "Influential",
+        "meaning": "有影响的"
+      }
+    ],
+    "answer": "Influential",
+    "explanation": "答案：Influential（有影响的）。其他选项同属词根 flu，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "speed",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“速率”意思最相符的单词。",
+    "options": [
+      {
+        "word": "as",
+        "meaning": "同样地"
+      },
+      {
+        "word": "shade",
+        "meaning": "荫"
+      },
+      {
+        "word": "speed",
+        "meaning": "速率"
+      },
+      {
+        "word": "way",
+        "meaning": "方法"
+      }
+    ],
+    "answer": "speed",
+    "explanation": "答案：speed（速率）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "fund",
+    "prompt": "根据句意，选择最适合填入空格的词：A town of culture award could, it is argued, become an annual event, attracting ________ and creating jobs.",
+    "options": [
+      {
+        "word": "sink",
+        "meaning": "洗涤池"
+      },
+      {
+        "word": "golden",
+        "meaning": "金的"
+      },
+      {
+        "word": "fund",
+        "meaning": "基金"
+      },
+      {
+        "word": "sunshine",
+        "meaning": "阳光"
+      }
+    ],
+    "answer": "fund",
+    "explanation": "答案：fund（基金）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "garlic",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“蒜”意思最相符的单词。",
+    "options": [
+      {
+        "word": "garlic",
+        "meaning": "蒜"
+      },
+      {
+        "word": "embitter",
+        "meaning": "加苦味于；使更苦"
+      },
+      {
+        "word": "brown",
+        "meaning": "颜色词 褐色"
+      },
+      {
+        "word": "situation",
+        "meaning": "情形"
+      }
+    ],
+    "answer": "garlic",
+    "explanation": "答案：garlic（蒜）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "val",
+    "word": "invalidism",
+    "prompt": "根据句意，选择最适合填入空格的词：The doctor treated the patient for ________.",
+    "options": [
+      {
+        "word": "valueless",
+        "meaning": "价值无的，不的"
+      },
+      {
+        "word": "invalidism",
+        "meaning": "久病；伤残"
+      },
+      {
+        "word": "valid",
+        "meaning": "有法律效力的，合法的"
+      },
+      {
+        "word": "available",
+        "meaning": "可利用的；可获得的"
+      }
+    ],
+    "answer": "invalidism",
+    "explanation": "答案：invalidism（久病；伤残）。其他选项同属词根 val，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "witness",
+    "prompt": "根据句意，选择最适合填入空格的词：By the date of his birth Europe was ________ the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+    "options": [
+      {
+        "word": "witness",
+        "meaning": "证人"
+      },
+      {
+        "word": "its",
+        "meaning": "是第三人称单数所有格限定词"
+      },
+      {
+        "word": "theirs",
+        "meaning": "他们的"
+      },
+      {
+        "word": "poor",
+        "meaning": "贫穷的"
+      }
+    ],
+    "answer": "witness",
+    "explanation": "答案：witness（证人）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vert",
+    "word": "vertebra",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“脊椎,椎骨；椎骨,脊髓”意思最相符的单词。",
+    "options": [
+      {
+        "word": "vertebra",
+        "meaning": "脊椎,椎骨；椎骨,脊髓"
+      },
+      {
+        "word": "universalization",
+        "meaning": "一般化,普遍化"
+      },
+      {
+        "word": "averse",
+        "meaning": "不情愿的；反对的"
+      },
+      {
+        "word": "vers",
+        "meaning": "转"
+      }
+    ],
+    "answer": "vertebra",
+    "explanation": "答案：vertebra（脊椎,椎骨；椎骨,脊髓）。其他选项同属词根 vert，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "medi",
+    "word": "mediocre",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“中等的；普普通通的；平庸的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "immediate",
+        "meaning": "即刻的"
+      },
+      {
+        "word": "Intermediate",
+        "meaning": "居中的"
+      },
+      {
+        "word": "mediocre",
+        "meaning": "中等的；普普通通的；平庸的"
+      },
+      {
+        "word": "medium",
+        "meaning": "媒介物"
+      }
+    ],
+    "answer": "mediocre",
+    "explanation": "答案：mediocre（中等的；普普通通的；平庸的）。其他选项同属词根 medi，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pati",
+    "word": "bypass",
+    "prompt": "根据句意，选择最适合填入空格的词：Issues arise, however, when developers attempt to create large-scale short-term rental facilities — de facto hotels — to ________ taxes and regulations.",
+    "options": [
+      {
+        "word": "passionate",
+        "meaning": "热情的；热恋的，情欲强烈的"
+      },
+      {
+        "word": "Impatient",
+        "meaning": "不耐烦的；没有耐性的"
+      },
+      {
+        "word": "passive",
+        "meaning": "被动的；消极的"
+      },
+      {
+        "word": "bypass",
+        "meaning": "旁道，旁路"
+      }
+    ],
+    "answer": "bypass",
+    "explanation": "答案：bypass（旁道，旁路）。其他选项同属词根 pati，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pend",
+    "word": "ponder",
+    "prompt": "根据句意，选择最适合填入空格的词：Intellect, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind. Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ________, wonders, theorizes, criticizes, and imagines.",
+    "options": [
+      {
+        "word": "undependable",
+        "meaning": "不可靠的,靠不住的,不可信赖的"
+      },
+      {
+        "word": "suspender",
+        "meaning": "挂，悬，中止，暂停者，器"
+      },
+      {
+        "word": "ponder",
+        "meaning": "深思，考虑，估量，衡量"
+      },
+      {
+        "word": "pensive",
+        "meaning": "沉思的"
+      }
+    ],
+    "answer": "ponder",
+    "explanation": "答案：ponder（深思，考虑，估量，衡量）。其他选项同属词根 pend，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "it",
+    "word": "Transition",
+    "prompt": "根据句意，选择最适合填入空格的词：In previous eras of drastic technological change, entrepreneurs smoothed the ________ by dreaming up ways to combine labor and machines.",
+    "options": [
+      {
+        "word": "circuitous",
+        "meaning": "迂回的，绕行的；曲折的"
+      },
+      {
+        "word": "Transition",
+        "meaning": "过渡；转变；变迁"
+      },
+      {
+        "word": "ambition",
+        "meaning": "强烈欲望，雄心，抱负"
+      },
+      {
+        "word": "visiting",
+        "meaning": "参观，游览，访问的"
+      }
+    ],
+    "answer": "Transition",
+    "explanation": "答案：Transition（过渡；转变；变迁）。其他选项同属词根 it，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "secondhand",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“间接获得的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "secondhand",
+        "meaning": "间接获得的"
+      },
+      {
+        "word": "field",
+        "meaning": "领域"
+      },
+      {
+        "word": "organise",
+        "meaning": "组织"
+      },
+      {
+        "word": "volcanic",
+        "meaning": "火山的；由火山作用所引起的"
+      }
+    ],
+    "answer": "secondhand",
+    "explanation": "答案：secondhand（间接获得的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pend",
+    "word": "misspend",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“浪费”意思最相符的单词。",
+    "options": [
+      {
+        "word": "independency",
+        "meaning": "独立，独立国"
+      },
+      {
+        "word": "misspend",
+        "meaning": "浪费"
+      },
+      {
+        "word": "pensioner",
+        "meaning": "领取养老金者"
+      },
+      {
+        "word": "dispense",
+        "meaning": "分发；分配"
+      }
+    ],
+    "answer": "misspend",
+    "explanation": "答案：misspend（浪费）。其他选项同属词根 pend，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "prim",
+    "word": "Premier",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“总理”意思最相符的单词。",
+    "options": [
+      {
+        "word": "primatologist",
+        "meaning": "第一者，专家"
+      },
+      {
+        "word": "Premier",
+        "meaning": "总理"
+      },
+      {
+        "word": "primiparous",
+        "meaning": "初产的"
+      },
+      {
+        "word": "primeval",
+        "meaning": "原始的，早期的，太古的"
+      }
+    ],
+    "answer": "Premier",
+    "explanation": "答案：Premier（总理）。其他选项同属词根 prim，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "respiratory",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“呼吸的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "crossroads",
+        "meaning": "十字路口"
+      },
+      {
+        "word": "art",
+        "meaning": "艺术"
+      },
+      {
+        "word": "handy",
+        "meaning": "便利的"
+      },
+      {
+        "word": "respiratory",
+        "meaning": "呼吸的"
+      }
+    ],
+    "answer": "respiratory",
+    "explanation": "答案：respiratory（呼吸的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sid",
+    "word": "session",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ lasted.",
+    "options": [
+      {
+        "word": "president",
+        "meaning": "总统；大学校长；会长；社长等"
+      },
+      {
+        "word": "reside",
+        "meaning": "安家；居住"
+      },
+      {
+        "word": "session",
+        "meaning": "期间,开庭期,会议,学期；会话,对话,会晤,通用任务程序"
+      },
+      {
+        "word": "Residence",
+        "meaning": "居住；住宅"
+      }
+    ],
+    "answer": "session",
+    "explanation": "答案：session（期间,开庭期,会议,学期；会话,对话,会晤,通用任务程序）。其他选项同属词根 sid，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Reptile",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“爬行动物”意思最相符的单词。",
+    "options": [
+      {
+        "word": "warehouse",
+        "meaning": "仓库"
+      },
+      {
+        "word": "incriminate",
+        "meaning": "控告；归罪于"
+      },
+      {
+        "word": "craft",
+        "meaning": "义项1的单复数同形"
+      },
+      {
+        "word": "Reptile",
+        "meaning": "爬行动物"
+      }
+    ],
+    "answer": "Reptile",
+    "explanation": "答案：Reptile（爬行动物）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fin",
+    "word": "refinancing",
+    "prompt": "根据句意，选择最适合填入空格的词：________ can lower the firm's borrowing costs.",
+    "options": [
+      {
+        "word": "financially",
+        "meaning": "在财政上；在经济上"
+      },
+      {
+        "word": "refinancing",
+        "meaning": "再融资；重新筹资"
+      },
+      {
+        "word": "finally",
+        "meaning": "最终地"
+      },
+      {
+        "word": "infinitesimally",
+        "meaning": "极小地；以无穷小量地"
+      }
+    ],
+    "answer": "refinancing",
+    "explanation": "答案：refinancing（再融资；重新筹资）。其他选项同属词根 fin，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "rule",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“规则”意思最相符的单词。",
+    "options": [
+      {
+        "word": "ray",
+        "meaning": "光线"
+      },
+      {
+        "word": "rule",
+        "meaning": "规则"
+      },
+      {
+        "word": "garbage",
+        "meaning": "垃圾"
+      },
+      {
+        "word": "Retrieve",
+        "meaning": "取回、恢复"
+      }
+    ],
+    "answer": "rule",
+    "explanation": "答案：rule（规则）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Intimate",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“亲密的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "hire",
+        "meaning": "租金"
+      },
+      {
+        "word": "alley",
+        "meaning": "小路"
+      },
+      {
+        "word": "disadvantage",
+        "meaning": "不利；不利条件"
+      },
+      {
+        "word": "Intimate",
+        "meaning": "亲密的"
+      }
+    ],
+    "answer": "Intimate",
+    "explanation": "答案：Intimate（亲密的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "for",
+    "prompt": "根据句意，选择最适合填入空格的词：But the ruling reinforces the need ________ citizens and their elected representatives, not the courts, to ensure equality of access to government.",
+    "options": [
+      {
+        "word": "for",
+        "meaning": "=(-)表示“离去,禁止”之义"
+      },
+      {
+        "word": "steal",
+        "meaning": "剽窃"
+      },
+      {
+        "word": "news",
+        "meaning": "新闻"
+      },
+      {
+        "word": "much",
+        "meaning": "表示行动"
+      }
+    ],
+    "answer": "for",
+    "explanation": "答案：for（=(-)表示“离去,禁止”之义）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "most",
+    "prompt": "根据句意，选择最适合填入空格的词：The building has housed some of the nation's ________ significant diplomats and politicians and has been the scene of many historic events.",
+    "options": [
+      {
+        "word": "unbearable",
+        "meaning": "无法忍受的"
+      },
+      {
+        "word": "Excellent",
+        "meaning": "优良的"
+      },
+      {
+        "word": "most",
+        "meaning": "常被认为是"
+      },
+      {
+        "word": "hammer",
+        "meaning": "锤"
+      }
+    ],
+    "answer": "most",
+    "explanation": "答案：most（常被认为是）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pend",
+    "word": "impendent",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“悬挂的；即将发生的，逼近的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "suspensible",
+        "meaning": "可悬挂的，可吊的"
+      },
+      {
+        "word": "impendent",
+        "meaning": "悬挂的；即将发生的，逼近的"
+      },
+      {
+        "word": "Dependent",
+        "meaning": "依靠的；由…决定的；从属的"
+      },
+      {
+        "word": "dispensary",
+        "meaning": "配药处；药房"
+      }
+    ],
+    "answer": "impendent",
+    "explanation": "答案：impendent（悬挂的；即将发生的，逼近的）。其他选项同属词根 pend，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "massive",
+    "prompt": "根据句意，选择最适合填入空格的词：First two hours , now three hours—this is how far in advance authorities are recommending people show up to catch a domestic flight , at least at some major U.S. airports with increasingly ________ security lines.",
+    "options": [
+      {
+        "word": "massive",
+        "meaning": "巨大的"
+      },
+      {
+        "word": "behavior",
+        "meaning": "行为"
+      },
+      {
+        "word": "disappearance",
+        "meaning": "消失"
+      },
+      {
+        "word": "Cover",
+        "meaning": "盖子"
+      }
+    ],
+    "answer": "massive",
+    "explanation": "答案：massive（巨大的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "holy",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“神圣的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "holy",
+        "meaning": "神圣的"
+      },
+      {
+        "word": "beard",
+        "meaning": "胡须"
+      },
+      {
+        "word": "necessarily",
+        "meaning": "必然地"
+      },
+      {
+        "word": "line",
+        "meaning": "列"
+      }
+    ],
+    "answer": "holy",
+    "explanation": "答案：holy（神圣的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "accountant",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ was found guilty of fraud.",
+    "options": [
+      {
+        "word": "burglar",
+        "meaning": "窃贼"
+      },
+      {
+        "word": "accountant",
+        "meaning": "会计员"
+      },
+      {
+        "word": "steady",
+        "meaning": "稳定的"
+      },
+      {
+        "word": "typist",
+        "meaning": "打字员"
+      }
+    ],
+    "answer": "accountant",
+    "explanation": "答案：accountant（会计员）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "unifier",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "rely",
+        "meaning": "依赖"
+      },
+      {
+        "word": "unifier",
+        "meaning": "统一者；使一致者"
+      },
+      {
+        "word": "millimeter",
+        "meaning": "毫米"
+      },
+      {
+        "word": "highway",
+        "meaning": "公路"
+      }
+    ],
+    "answer": "unifier",
+    "explanation": "答案：unifier（统一者；使一致者）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "blossom",
+    "prompt": "根据句意，选择最适合填入空格的词：The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, ________, and decay of many kinds of plays, and of many great careers.",
+    "options": [
+      {
+        "word": "blossom",
+        "meaning": "花簇"
+      },
+      {
+        "word": "clothing",
+        "meaning": "衣服"
+      },
+      {
+        "word": "always",
+        "meaning": "总是"
+      },
+      {
+        "word": "Remark",
+        "meaning": "评论"
+      }
+    ],
+    "answer": "blossom",
+    "explanation": "答案：blossom（花簇）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "background",
+    "prompt": "根据句意，选择最适合填入空格的词：His paternal grandparents, a steward and a housekeeper possessed even less status, having been servants, and Dickens later concealed their ________.",
+    "options": [
+      {
+        "word": "boom",
+        "meaning": "繁荣"
+      },
+      {
+        "word": "Engine",
+        "meaning": "引擎"
+      },
+      {
+        "word": "background",
+        "meaning": "背景"
+      },
+      {
+        "word": "drug",
+        "meaning": "药"
+      }
+    ],
+    "answer": "background",
+    "explanation": "答案：background（背景）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "poverty",
+    "prompt": "根据句意，选择最适合填入空格的词：In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in ________.",
+    "options": [
+      {
+        "word": "classify",
+        "meaning": "把…分等级；把…分类"
+      },
+      {
+        "word": "site",
+        "meaning": "场地"
+      },
+      {
+        "word": "poverty",
+        "meaning": "贫穷,贫困,缺乏；贫乏,缺乏"
+      },
+      {
+        "word": "dorm",
+        "meaning": "宿舍"
+      }
+    ],
+    "answer": "poverty",
+    "explanation": "答案：poverty（贫穷,贫困,缺乏；贫乏,缺乏）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "photo- (光)",
+    "word": "photography",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“摄影术”意思最相符的单词。",
+    "options": [
+      {
+        "word": "photodecomposition",
+        "meaning": "光分解，光解作用"
+      },
+      {
+        "word": "photograph",
+        "meaning": "照片；拍照"
+      },
+      {
+        "word": "photosynthesis",
+        "meaning": "光合作用"
+      },
+      {
+        "word": "photography",
+        "meaning": "摄影术"
+      }
+    ],
+    "answer": "photography",
+    "explanation": "答案：photography（摄影术）。其他选项同属词根 photo- (光)，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "night",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“夜间”意思最相符的单词。",
+    "options": [
+      {
+        "word": "fake",
+        "meaning": "假冒的"
+      },
+      {
+        "word": "are",
+        "meaning": "的复数和第二人称单数现在时形式"
+      },
+      {
+        "word": "quarry",
+        "meaning": "采石场"
+      },
+      {
+        "word": "night",
+        "meaning": "夜间"
+      }
+    ],
+    "answer": "night",
+    "explanation": "答案：night（夜间）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Exhaust",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“抽空；汲干”意思最相符的单词。",
+    "options": [
+      {
+        "word": "elephant",
+        "meaning": "象"
+      },
+      {
+        "word": "Exhaust",
+        "meaning": "抽空；汲干"
+      },
+      {
+        "word": "kindness",
+        "meaning": "好意；好心肠"
+      },
+      {
+        "word": "review",
+        "meaning": "检讨"
+      }
+    ],
+    "answer": "Exhaust",
+    "explanation": "答案：Exhaust（抽空；汲干）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "gen",
+    "word": "pathogenesis",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "pathogenesis",
+        "meaning": "痛苦"
+      },
+      {
+        "word": "phytoestrogen",
+        "meaning": "植物雌激素"
+      },
+      {
+        "word": "genitals",
+        "meaning": "生殖器,外阴部；生殖器"
+      },
+      {
+        "word": "genotypic",
+        "meaning": "遗传型的"
+      }
+    ],
+    "answer": "pathogenesis",
+    "explanation": "答案：pathogenesis（痛苦）。其他选项同属词根 gen，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "opt",
+    "word": "optically",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“眼睛地；视力地；光学地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "optically",
+        "meaning": "眼睛地；视力地；光学地"
+      },
+      {
+        "word": "Cooperate",
+        "meaning": "合作；协作"
+      },
+      {
+        "word": "option",
+        "meaning": "选择；选择的事物；买卖的特权"
+      },
+      {
+        "word": "opera",
+        "meaning": "歌剧；歌剧院；歌剧艺术"
+      }
+    ],
+    "answer": "optically",
+    "explanation": "答案：optically（眼睛地；视力地；光学地）。其他选项同属词根 opt，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "noodle",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“面条”意思最相符的单词。",
+    "options": [
+      {
+        "word": "well",
+        "meaning": "井,泉水,源泉,好；涌出；健康的,良好的,适宜的,恰当的；很好地,适当地,好意地,很,完全；.好啦"
+      },
+      {
+        "word": "noodle",
+        "meaning": "面条"
+      },
+      {
+        "word": "grandfather",
+        "meaning": "祖父"
+      },
+      {
+        "word": "pacific",
+        "meaning": "和平的 n."
+      }
+    ],
+    "answer": "noodle",
+    "explanation": "答案：noodle（面条）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "festival",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“节日；庆祝活动；欢宴”意思最相符的单词。",
+    "options": [
+      {
+        "word": "Bird",
+        "meaning": "鸟"
+      },
+      {
+        "word": "mustard",
+        "meaning": "芥末"
+      },
+      {
+        "word": "functional",
+        "meaning": "功能的；用途的；实用的"
+      },
+      {
+        "word": "festival",
+        "meaning": "节日；庆祝活动；欢宴"
+      }
+    ],
+    "answer": "festival",
+    "explanation": "答案：festival（节日；庆祝活动；欢宴）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "stomachache",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“胃痛”意思最相符的单词。",
+    "options": [
+      {
+        "word": "stomachache",
+        "meaning": "胃痛"
+      },
+      {
+        "word": "Reed",
+        "meaning": "芦苇"
+      },
+      {
+        "word": "maltreat",
+        "meaning": "粗暴地对待；虐待"
+      },
+      {
+        "word": "decoration",
+        "meaning": "装饰"
+      }
+    ],
+    "answer": "stomachache",
+    "explanation": "答案：stomachache（胃痛）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fer",
+    "word": "indifferently",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“漠不关心地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "indifferently",
+        "meaning": "漠不关心地"
+      },
+      {
+        "word": "transference",
+        "meaning": "转移；调动；转让"
+      },
+      {
+        "word": "fer",
+        "meaning": "（词根）拿，带，负"
+      },
+      {
+        "word": "proliferative",
+        "meaning": "增殖,多育,繁殖,增生,激增,扩散；增生的,增殖的"
+      }
+    ],
+    "answer": "indifferently",
+    "explanation": "答案：indifferently（漠不关心地）。其他选项同属词根 fer，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "evince",
+    "prompt": "根据句意，选择最适合填入空格的词：The report ________ the idea clearly.",
+    "options": [
+      {
+        "word": "granddaughter",
+        "meaning": "孙女"
+      },
+      {
+        "word": "evince",
+        "meaning": "表明，显示"
+      },
+      {
+        "word": "grab",
+        "meaning": "抓住"
+      },
+      {
+        "word": "november",
+        "meaning": "十一月"
+      }
+    ],
+    "answer": "evince",
+    "explanation": "答案：evince（表明，显示）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "port",
+    "word": "reported",
+    "prompt": "根据句意，选择最适合填入空格的词：It ________ a net loss of 5.6 \\ billion in unfunded liabilities, mostly for employee health and retirement costs.",
+    "options": [
+      {
+        "word": "reported",
+        "meaning": "报告的；被动形式"
+      },
+      {
+        "word": "portal",
+        "meaning": "入口,大门；肝门的"
+      },
+      {
+        "word": "importer",
+        "meaning": "进口、进口商品者，器"
+      },
+      {
+        "word": "exporter",
+        "meaning": "输出、出口者，器"
+      }
+    ],
+    "answer": "reported",
+    "explanation": "答案：reported（报告的；被动形式）。其他选项同属词根 port，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pend",
+    "word": "spender",
+    "prompt": "根据句意，选择最适合填入空格的词：The policy affected ________ in the region.",
+    "options": [
+      {
+        "word": "interdepend",
+        "meaning": "互相依赖"
+      },
+      {
+        "word": "spender",
+        "meaning": "用钱的人"
+      },
+      {
+        "word": "appendage",
+        "meaning": "附加物；附属物"
+      },
+      {
+        "word": "interdependence",
+        "meaning": "互相依赖"
+      }
+    ],
+    "answer": "spender",
+    "explanation": "答案：spender（用钱的人）。其他选项同属词根 pend，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pon",
+    "word": "purposely",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“目地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "opposable",
+        "meaning": "可反对的,可对抗的,可对立的"
+      },
+      {
+        "word": "poser",
+        "meaning": "装腔作势者,难题"
+      },
+      {
+        "word": "purposelessness",
+        "meaning": "目的无的，不的性，度"
+      },
+      {
+        "word": "purposely",
+        "meaning": "目地"
+      }
+    ],
+    "answer": "purposely",
+    "explanation": "答案：purposely（目地）。其他选项同属词根 pon，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "path",
+    "word": "pathogenicity",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "pathogenicity",
+        "meaning": "痛苦性质，状态"
+      },
+      {
+        "word": "dermatopathy",
+        "meaning": "皮肤病"
+      },
+      {
+        "word": "antipathy",
+        "meaning": "反感，厌恶"
+      },
+      {
+        "word": "sympathetic",
+        "meaning": "有同情心的,合意的,赞成的；交感神经,容易感受的人"
+      }
+    ],
+    "answer": "pathogenicity",
+    "explanation": "答案：pathogenicity（痛苦性质，状态）。其他选项同属词根 path，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "nat",
+    "word": "renationalization",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "renationalization",
+        "meaning": "再，重新，回诞生行为，过程"
+      },
+      {
+        "word": "unnaturally",
+        "meaning": "不自然地"
+      },
+      {
+        "word": "internationally",
+        "meaning": "国际性地"
+      },
+      {
+        "word": "transnationally",
+        "meaning": "跨，超越诞生地"
+      }
+    ],
+    "answer": "renationalization",
+    "explanation": "答案：renationalization（再，重新，回诞生行为，过程）。其他选项同属词根 nat，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "leg",
+    "word": "illegible",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“不可读的，难读的，难以辨认的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "inelegantly",
+        "meaning": "不雅的，粗俗地"
+      },
+      {
+        "word": "illegally",
+        "meaning": "不合法地"
+      },
+      {
+        "word": "illegible",
+        "meaning": "不可读的，难读的，难以辨认的"
+      },
+      {
+        "word": "illegitimacy",
+        "meaning": "不法,私生,不规则性,不合逻辑；私生,违法"
+      }
+    ],
+    "answer": "illegible",
+    "explanation": "答案：illegible（不可读的，难读的，难以辨认的）。其他选项同属词根 leg，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "liter",
+    "word": "literacy",
+    "prompt": "根据句意，选择最适合填入空格的词：Yet as distrust has risen toward all media, people may be starting to beef up their media ________ skills.",
+    "options": [
+      {
+        "word": "literally",
+        "meaning": "简直"
+      },
+      {
+        "word": "literary",
+        "meaning": "文学的"
+      },
+      {
+        "word": "literate",
+        "meaning": "识字的；有文化的 n."
+      },
+      {
+        "word": "literacy",
+        "meaning": "读写能力；有文化"
+      }
+    ],
+    "answer": "literacy",
+    "explanation": "答案：literacy（读写能力；有文化）。其他选项同属词根 liter，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "irrigation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "eve",
+        "meaning": "前夕"
+      },
+      {
+        "word": "irrigation",
+        "meaning": "灌溉,冲洗；冲洗法,灌溉"
+      },
+      {
+        "word": "auditory",
+        "meaning": "听觉的"
+      },
+      {
+        "word": "snow",
+        "meaning": "雪"
+      }
+    ],
+    "answer": "irrigation",
+    "explanation": "答案：irrigation（灌溉,冲洗；冲洗法,灌溉）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "sum",
+    "word": "overconsumption",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "consummatory",
+        "meaning": "使完成的；（行为、反应等）完成性的,使满足的"
+      },
+      {
+        "word": "consume",
+        "meaning": "消费；消灭，毁灭"
+      },
+      {
+        "word": "consumable",
+        "meaning": "可消耗的；消耗品"
+      },
+      {
+        "word": "overconsumption",
+        "meaning": "过度消费"
+      }
+    ],
+    "answer": "overconsumption",
+    "explanation": "答案：overconsumption（过度消费）。其他选项同属词根 sum，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Coke",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“可口可乐”意思最相符的单词。",
+    "options": [
+      {
+        "word": "Coke",
+        "meaning": "可口可乐"
+      },
+      {
+        "word": "weekend",
+        "meaning": "周末"
+      },
+      {
+        "word": "swimming",
+        "meaning": "游泳"
+      },
+      {
+        "word": "by",
+        "meaning": "除下列用法"
+      }
+    ],
+    "answer": "Coke",
+    "explanation": "答案：Coke（可口可乐）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "serv",
+    "word": "server",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“服务生；大餐叉”意思最相符的单词。",
+    "options": [
+      {
+        "word": "servicer",
+        "meaning": "服务程序,服务器"
+      },
+      {
+        "word": "server",
+        "meaning": "服务生；大餐叉"
+      },
+      {
+        "word": "deservedly",
+        "meaning": "应得报酬地,理所当然地"
+      },
+      {
+        "word": "reserve",
+        "meaning": "储备，保留"
+      }
+    ],
+    "answer": "server",
+    "explanation": "答案：server（服务生；大餐叉）。其他选项同属词根 serv，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "ash",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“灰”意思最相符的单词。",
+    "options": [
+      {
+        "word": "anecdote",
+        "meaning": "轶事"
+      },
+      {
+        "word": "gymnastics",
+        "meaning": "体操"
+      },
+      {
+        "word": "ash",
+        "meaning": "灰"
+      },
+      {
+        "word": "family",
+        "meaning": "可数集合名词 家"
+      }
+    ],
+    "answer": "ash",
+    "explanation": "答案：ash（灰）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "as",
+    "prompt": "根据句意，选择最适合填入空格的词：The growth of the use of English ________ the world’s primary language for international communication has obviously been continuing for several decades.",
+    "options": [
+      {
+        "word": "chaos",
+        "meaning": "混乱"
+      },
+      {
+        "word": "repetitive",
+        "meaning": "重说的；反复的"
+      },
+      {
+        "word": "soft",
+        "meaning": "软的"
+      },
+      {
+        "word": "as",
+        "meaning": "同样地"
+      }
+    ],
+    "answer": "as",
+    "explanation": "答案：as（同样地）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "log",
+    "word": "prologue",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“开场白；序言”意思最相符的单词。",
+    "options": [
+      {
+        "word": "prologue",
+        "meaning": "开场白；序言"
+      },
+      {
+        "word": "ecological",
+        "meaning": "生态的"
+      },
+      {
+        "word": "monological",
+        "meaning": "独白的,独白式的"
+      },
+      {
+        "word": "apology",
+        "meaning": "道歉；谢罪"
+      }
+    ],
+    "answer": "prologue",
+    "explanation": "答案：prologue（开场白；序言）。其他选项同属词根 log，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "meeting",
+    "prompt": "根据句意，选择最适合填入空格的词：Simply arranging a ________, making a phone call, or hosting an event is not an “official act”.",
+    "options": [
+      {
+        "word": "unfair",
+        "meaning": "不公平的"
+      },
+      {
+        "word": "coordination",
+        "meaning": "协调，协同；整理"
+      },
+      {
+        "word": "qualify",
+        "meaning": "取得资格"
+      },
+      {
+        "word": "meeting",
+        "meaning": "会议"
+      }
+    ],
+    "answer": "meeting",
+    "explanation": "答案：meeting（会议）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "test",
+    "word": "testicular",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“睾丸的,睾丸状的；睾丸的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "test",
+        "meaning": "（词根）证人，作证"
+      },
+      {
+        "word": "attestor",
+        "meaning": "证人,契约的连署人；证人,证明者"
+      },
+      {
+        "word": "testicular",
+        "meaning": "睾丸的,睾丸状的；睾丸的"
+      },
+      {
+        "word": "testing",
+        "meaning": "测试；吃力的,试验的"
+      }
+    ],
+    "answer": "testicular",
+    "explanation": "答案：testicular（睾丸的,睾丸状的；睾丸的）。其他选项同属词根 test，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "verb",
+    "word": "nonverbally",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“非动词（形式）地”意思最相符的单词。",
+    "options": [
+      {
+        "word": "nonverbally",
+        "meaning": "非动词（形式）地"
+      },
+      {
+        "word": "Adverb",
+        "meaning": "副词"
+      },
+      {
+        "word": "adverbial",
+        "meaning": "副词的,状语的；状语"
+      },
+      {
+        "word": "proverb",
+        "meaning": "谚语，格言 v."
+      }
+    ],
+    "answer": "nonverbally",
+    "explanation": "答案：nonverbally（非动词（形式）地）。其他选项同属词根 verb，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "mathematics",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“数学”意思最相符的单词。",
+    "options": [
+      {
+        "word": "liter",
+        "meaning": "公升"
+      },
+      {
+        "word": "scar",
+        "meaning": "疤痕"
+      },
+      {
+        "word": "rhythm",
+        "meaning": "节奏"
+      },
+      {
+        "word": "mathematics",
+        "meaning": "数学"
+      }
+    ],
+    "answer": "mathematics",
+    "explanation": "答案：mathematics（数学）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "cred",
+    "word": "accrediting",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“相信，信任，委任的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "credence",
+        "meaning": "相信；信任"
+      },
+      {
+        "word": "accrediting",
+        "meaning": "相信，信任，委任的"
+      },
+      {
+        "word": "cred",
+        "meaning": "（词根）相信；信任"
+      },
+      {
+        "word": "creditably",
+        "meaning": "美满地,有名誉地,不愧"
+      }
+    ],
+    "answer": "accrediting",
+    "explanation": "答案：accrediting（相信，信任，委任的）。其他选项同属词根 cred，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pon",
+    "word": "Dispose",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“布置；安排”意思最相符的单词。",
+    "options": [
+      {
+        "word": "purposely",
+        "meaning": "目地"
+      },
+      {
+        "word": "Dispose",
+        "meaning": "布置；安排"
+      },
+      {
+        "word": "interpose",
+        "meaning": "插入"
+      },
+      {
+        "word": "purposelessness",
+        "meaning": "目的无的，不的性，度"
+      }
+    ],
+    "answer": "Dispose",
+    "explanation": "答案：Dispose（布置；安排）。其他选项同属词根 pon，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "stick",
+    "prompt": "根据句意，选择最适合填入空格的词：A.Small publishers ought to ________ together.",
+    "options": [
+      {
+        "word": "tolerant",
+        "meaning": "宽容的"
+      },
+      {
+        "word": "stick",
+        "meaning": "棍"
+      },
+      {
+        "word": "About",
+        "meaning": "在周围,大约,有关,关于；大约,四处,在附近,周围"
+      },
+      {
+        "word": "historian",
+        "meaning": "历史学家 A"
+      }
+    ],
+    "answer": "stick",
+    "explanation": "答案：stick（棍）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "chain",
+    "prompt": "根据句意，选择最适合填入空格的词：Big ________ have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to.",
+    "options": [
+      {
+        "word": "attempt",
+        "meaning": "尝试,企图"
+      },
+      {
+        "word": "to",
+        "meaning": "到,向,趋于；向前"
+      },
+      {
+        "word": "chain",
+        "meaning": "链条"
+      },
+      {
+        "word": "if",
+        "meaning": "如果"
+      }
+    ],
+    "answer": "chain",
+    "explanation": "答案：chain（链条）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "building",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events.",
+    "options": [
+      {
+        "word": "building",
+        "meaning": "建筑物"
+      },
+      {
+        "word": "madam",
+        "meaning": "女士"
+      },
+      {
+        "word": "overweight",
+        "meaning": "超过重量"
+      },
+      {
+        "word": "herself",
+        "meaning": "她自己"
+      }
+    ],
+    "answer": "building",
+    "explanation": "答案：building（建筑物）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "stamp",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“印”意思最相符的单词。",
+    "options": [
+      {
+        "word": "stamp",
+        "meaning": "印"
+      },
+      {
+        "word": "efficiency",
+        "meaning": "效率"
+      },
+      {
+        "word": "player",
+        "meaning": "竞赛者"
+      },
+      {
+        "word": "noon",
+        "meaning": "正午"
+      }
+    ],
+    "answer": "stamp",
+    "explanation": "答案：stamp（印）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "sightseeing",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“观光”意思最相符的单词。",
+    "options": [
+      {
+        "word": "should",
+        "meaning": "应该"
+      },
+      {
+        "word": "germany",
+        "meaning": "德国"
+      },
+      {
+        "word": "sightseeing",
+        "meaning": "观光"
+      },
+      {
+        "word": "cabbage",
+        "meaning": "卷心菜"
+      }
+    ],
+    "answer": "sightseeing",
+    "explanation": "答案：sightseeing（观光）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "opt",
+    "word": "optician",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ is used in the experiment.",
+    "options": [
+      {
+        "word": "operation",
+        "meaning": "活动"
+      },
+      {
+        "word": "Adopt",
+        "meaning": "采用,正式通过,收养,接受；采取"
+      },
+      {
+        "word": "optician",
+        "meaning": "光学仪器商；眼镜商"
+      },
+      {
+        "word": "opt",
+        "meaning": "（词根）选择"
+      }
+    ],
+    "answer": "optician",
+    "explanation": "答案：optician（光学仪器商；眼镜商）。其他选项同属词根 opt，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "prim",
+    "word": "primer",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“初级读本；入门书；识字课本”意思最相符的单词。",
+    "options": [
+      {
+        "word": "subprime",
+        "meaning": "下，次，亚第一"
+      },
+      {
+        "word": "primer",
+        "meaning": "初级读本；入门书；识字课本"
+      },
+      {
+        "word": "primatology",
+        "meaning": "灵长目动物学"
+      },
+      {
+        "word": "primate",
+        "meaning": "大主教，首席主教"
+      }
+    ],
+    "answer": "primer",
+    "explanation": "答案：primer（初级读本；入门书；识字课本）。其他选项同属词根 prim，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "mess",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“食堂”意思最相符的单词。",
+    "options": [
+      {
+        "word": "strength",
+        "meaning": "体力"
+      },
+      {
+        "word": "month",
+        "meaning": "月"
+      },
+      {
+        "word": "other",
+        "meaning": "其他的"
+      },
+      {
+        "word": "mess",
+        "meaning": "食堂"
+      }
+    ],
+    "answer": "mess",
+    "explanation": "答案：mess（食堂）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "cart",
+    "word": "cartoon",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“草图；连环漫画；动画片”意思最相符的单词。",
+    "options": [
+      {
+        "word": "cartoon",
+        "meaning": "草图；连环漫画；动画片"
+      },
+      {
+        "word": "charter",
+        "meaning": "章程；宪章；特许状"
+      },
+      {
+        "word": "carton",
+        "meaning": "硬纸盒；纸板箱"
+      },
+      {
+        "word": "chart",
+        "meaning": "图表；地图"
+      }
+    ],
+    "answer": "cartoon",
+    "explanation": "答案：cartoon（草图；连环漫画；动画片）。其他选项同属词根 cart，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "leg",
+    "word": "legality",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "legibility",
+        "meaning": "可读性，易读"
+      },
+      {
+        "word": "legionnaire",
+        "meaning": "读"
+      },
+      {
+        "word": "illegalization",
+        "meaning": "不，非，无读行为，过程"
+      },
+      {
+        "word": "legality",
+        "meaning": "合法"
+      }
+    ],
+    "answer": "legality",
+    "explanation": "答案：legality（合法）。其他选项同属词根 leg，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "par",
+    "word": "separating",
+    "prompt": "根据句意，选择最适合填入空格的词：Young people who are digital natives are indeed becoming more skillful at ________ fact from fiction in cyberspace.",
+    "options": [
+      {
+        "word": "separateness",
+        "meaning": "分开性，度"
+      },
+      {
+        "word": "prepared",
+        "meaning": "前，预先生的；被动形式"
+      },
+      {
+        "word": "separability",
+        "meaning": "生性质，状态"
+      },
+      {
+        "word": "separating",
+        "meaning": "生的"
+      }
+    ],
+    "answer": "separating",
+    "explanation": "答案：separating（生的）。其他选项同属词根 par，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vert",
+    "word": "verse",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“诗”意思最相符的单词。",
+    "options": [
+      {
+        "word": "advertiser",
+        "meaning": "做广告者,广告客户；广告商,广告者"
+      },
+      {
+        "word": "Diversion",
+        "meaning": "转向；转移；消遣；娱乐"
+      },
+      {
+        "word": "verse",
+        "meaning": "诗"
+      },
+      {
+        "word": "subversive",
+        "meaning": "颠覆性的；起破坏作用的"
+      }
+    ],
+    "answer": "verse",
+    "explanation": "答案：verse（诗）。其他选项同属词根 vert，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "arm",
+    "word": "alarm",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“警报 v.”意思最相符的单词。",
+    "options": [
+      {
+        "word": "alarm",
+        "meaning": "警报 v."
+      },
+      {
+        "word": "arm",
+        "meaning": "（词根）武装"
+      },
+      {
+        "word": "armament",
+        "meaning": "军备；装备"
+      },
+      {
+        "word": "disarm",
+        "meaning": "缴…的械"
+      }
+    ],
+    "answer": "alarm",
+    "explanation": "答案：alarm（警报 v.）。其他选项同属词根 arm，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pur",
+    "word": "purple",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“紫色”意思最相符的单词。",
+    "options": [
+      {
+        "word": "Puritan",
+        "meaning": "清教徒"
+      },
+      {
+        "word": "purifier",
+        "meaning": "使洁净的人（或物）"
+      },
+      {
+        "word": "purple",
+        "meaning": "紫色"
+      },
+      {
+        "word": "pure",
+        "meaning": "纯粹的；纯净的；纯洁的；纯种的"
+      }
+    ],
+    "answer": "purple",
+    "explanation": "答案：purple（紫色）。其他选项同属词根 pur，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ag",
+    "word": "exacting",
+    "prompt": "根据句意，选择最适合填入空格的词：The process was ________.",
+    "options": [
+      {
+        "word": "subagent",
+        "meaning": "副代理人"
+      },
+      {
+        "word": "agitator",
+        "meaning": "鼓动者；煽动者"
+      },
+      {
+        "word": "exacting",
+        "meaning": "苛求的，严厉的；强索的"
+      },
+      {
+        "word": "activate",
+        "meaning": "使活动"
+      }
+    ],
+    "answer": "exacting",
+    "explanation": "答案：exacting（苛求的，严厉的；强索的）。其他选项同属词根 ag，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "tonight",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“今晚”意思最相符的单词。",
+    "options": [
+      {
+        "word": "tonight",
+        "meaning": "今晚"
+      },
+      {
+        "word": "exam",
+        "meaning": "考试"
+      },
+      {
+        "word": "unfit",
+        "meaning": "不适当的"
+      },
+      {
+        "word": "botany",
+        "meaning": "植物学"
+      }
+    ],
+    "answer": "tonight",
+    "explanation": "答案：tonight（今晚）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "trade",
+    "prompt": "根据句意，选择最适合填入空格的词：“Short-termism” or the desire for quick profits, has worsened in publicly ________ companies, says the Bank of England’s top economist, Andrew Haldane.",
+    "options": [
+      {
+        "word": "fee",
+        "meaning": "费"
+      },
+      {
+        "word": "trade",
+        "meaning": "贸易"
+      },
+      {
+        "word": "analysis",
+        "meaning": "分析"
+      },
+      {
+        "word": "triumphant",
+        "meaning": "胜利的；成功的"
+      }
+    ],
+    "answer": "trade",
+    "explanation": "答案：trade（贸易）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vict",
+    "word": "Conviction",
+    "prompt": "根据句意，选择最适合填入空格的词：In a rare unanimous ruling, the U.S Supreme Court has overturned the corruption ________ of a former Virginia governor, Robert McDonnell.",
+    "options": [
+      {
+        "word": "Convict",
+        "meaning": "证明或宣告…有罪 n."
+      },
+      {
+        "word": "evict",
+        "meaning": "驱逐；逐出；追回"
+      },
+      {
+        "word": "invigilate",
+        "meaning": "监"
+      },
+      {
+        "word": "Conviction",
+        "meaning": "定罪"
+      }
+    ],
+    "answer": "Conviction",
+    "explanation": "答案：Conviction（定罪）。其他选项同属词根 vict，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "part",
+    "word": "participant",
+    "prompt": "根据句意，选择最适合填入空格的词：Kennedy wrote that the rule “limited state’ ability to seek long-term prosperity and has prevented market ________ from competing on an even playing field.”",
+    "options": [
+      {
+        "word": "nonpartisanship",
+        "meaning": "不偏不倚；无党派立场"
+      },
+      {
+        "word": "impartiality",
+        "meaning": "公平,无私,不偏；公正无私,公平,公正"
+      },
+      {
+        "word": "bipartisan",
+        "meaning": "两党连立的"
+      },
+      {
+        "word": "participant",
+        "meaning": "参加者,参与者；有份的,参加的,参与的"
+      }
+    ],
+    "answer": "participant",
+    "explanation": "答案：participant（参加者,参与者；有份的,参加的,参与的）。其他选项同属词根 part，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "cushion",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“垫子”意思最相符的单词。",
+    "options": [
+      {
+        "word": "priority",
+        "meaning": "优先"
+      },
+      {
+        "word": "violin",
+        "meaning": "小提琴"
+      },
+      {
+        "word": "cushion",
+        "meaning": "垫子"
+      },
+      {
+        "word": "pen",
+        "meaning": "钢笔"
+      }
+    ],
+    "answer": "cushion",
+    "explanation": "答案：cushion（垫子）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "formulation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "formulation",
+        "meaning": "表述；构思；配方"
+      },
+      {
+        "word": "father",
+        "meaning": "家庭成员名词 父亲"
+      },
+      {
+        "word": "glad",
+        "meaning": "高兴的"
+      },
+      {
+        "word": "jog",
+        "meaning": "慢跑"
+      }
+    ],
+    "answer": "formulation",
+    "explanation": "答案：formulation（表述；构思；配方）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "juice",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“果汁”意思最相符的单词。",
+    "options": [
+      {
+        "word": "juice",
+        "meaning": "果汁"
+      },
+      {
+        "word": "necktie",
+        "meaning": "领带"
+      },
+      {
+        "word": "south",
+        "meaning": "南"
+      },
+      {
+        "word": "poet",
+        "meaning": "诗人 A"
+      }
+    ],
+    "answer": "juice",
+    "explanation": "答案：juice（果汁）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "greece",
+    "prompt": "根据句意，选择最适合填入空格的词：Court, school organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and (47) no boy who went a grammar school could be ignorant that the drama was a form of literature which gave glory to ________ and Rome and might yet bring honor to England.",
+    "options": [
+      {
+        "word": "greece",
+        "meaning": "希腊"
+      },
+      {
+        "word": "democrat",
+        "meaning": "民主主义者，民主人士"
+      },
+      {
+        "word": "steak",
+        "meaning": "牛排"
+      },
+      {
+        "word": "friend",
+        "meaning": "朋友"
+      }
+    ],
+    "answer": "greece",
+    "explanation": "答案：greece（希腊）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fer",
+    "word": "interferential",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“干涉的,干扰的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "interferential",
+        "meaning": "干涉的,干扰的"
+      },
+      {
+        "word": "differently",
+        "meaning": "不同地"
+      },
+      {
+        "word": "cruciferous",
+        "meaning": "饰有十字形的，带有十字架的"
+      },
+      {
+        "word": "fer",
+        "meaning": "（词根）拿，带，负"
+      }
+    ],
+    "answer": "interferential",
+    "explanation": "答案：interferential（干涉的,干扰的）。其他选项同属词根 fer，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "cred",
+    "word": "incredibly",
+    "prompt": "根据句意，选择最适合填入空格的词：\"We are at a crisis level on the supply of rental housing, so anytime you're taking the tool out of the toolkit for communities to address this, you're potentially taking supply off the market that's already ________ stressed,\" said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast.",
+    "options": [
+      {
+        "word": "unaccredited",
+        "meaning": "未经授权的,未被接受的,未呈递国书的"
+      },
+      {
+        "word": "incredibly",
+        "meaning": "不能相信地"
+      },
+      {
+        "word": "incredibility",
+        "meaning": "不可信，难信"
+      },
+      {
+        "word": "accrediting",
+        "meaning": "相信，信任，委任的"
+      }
+    ],
+    "answer": "incredibly",
+    "explanation": "答案：incredibly（不能相信地）。其他选项同属词根 cred，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "simil",
+    "word": "simultaneous",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“同时的；同时发生的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "simultaneous",
+        "meaning": "同时的；同时发生的"
+      },
+      {
+        "word": "similar",
+        "meaning": "相似的，类似的"
+      },
+      {
+        "word": "resemble",
+        "meaning": "像，类似"
+      },
+      {
+        "word": "assemble",
+        "meaning": "收集，集合；装配"
+      }
+    ],
+    "answer": "simultaneous",
+    "explanation": "答案：simultaneous（同时的；同时发生的）。其他选项同属词根 simil，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "reg",
+    "word": "director",
+    "prompt": "根据句意，选择最适合填入空格的词：Glenn Branch, the centre's deputy ________, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards.",
+    "options": [
+      {
+        "word": "correctitude",
+        "meaning": "（行为的）端正"
+      },
+      {
+        "word": "corrector",
+        "meaning": "改正者，矫正者，校正者"
+      },
+      {
+        "word": "director",
+        "meaning": "主管"
+      },
+      {
+        "word": "correctional",
+        "meaning": "改正的,修正的,矫正的"
+      }
+    ],
+    "answer": "director",
+    "explanation": "答案：director（主管）。其他选项同属词根 reg，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "dated",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“过时的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "motherland",
+        "meaning": "祖国"
+      },
+      {
+        "word": "twice",
+        "meaning": "两次"
+      },
+      {
+        "word": "can",
+        "meaning": "装罐；罐头,容器；能,可以；作废字符"
+      },
+      {
+        "word": "dated",
+        "meaning": "过时的"
+      }
+    ],
+    "answer": "dated",
+    "explanation": "答案：dated（过时的）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "amazement",
+    "prompt": "根据句意，选择最适合填入空格的词：The girl was filled with ________ when she first saw the ocean.",
+    "options": [
+      {
+        "word": "tuesday",
+        "meaning": "星期二"
+      },
+      {
+        "word": "evince",
+        "meaning": "表明，显示"
+      },
+      {
+        "word": "mourn",
+        "meaning": "悼念"
+      },
+      {
+        "word": "amazement",
+        "meaning": "惊奇，诧异"
+      }
+    ],
+    "answer": "amazement",
+    "explanation": "答案：amazement（惊奇，诧异）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pet",
+    "word": "perpetuate",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“使永存,使不朽,保持”意思最相符的单词。",
+    "options": [
+      {
+        "word": "perpetuity",
+        "meaning": "永久,不朽,终身职位,终身任期,永久使用权；永续年金,终身年金"
+      },
+      {
+        "word": "impetuously",
+        "meaning": "激烈地,性急地;率尔;冒冒失失"
+      },
+      {
+        "word": "petitionary",
+        "meaning": "请愿的；请求的"
+      },
+      {
+        "word": "perpetuate",
+        "meaning": "使永存,使不朽,保持"
+      }
+    ],
+    "answer": "perpetuate",
+    "explanation": "答案：perpetuate（使永存,使不朽,保持）。其他选项同属词根 pet，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "roast",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“烤”意思最相符的单词。",
+    "options": [
+      {
+        "word": "generation",
+        "meaning": "代；一代人；生产；产生"
+      },
+      {
+        "word": "roast",
+        "meaning": "烤"
+      },
+      {
+        "word": "its",
+        "meaning": "是第三人称单数所有格限定词"
+      },
+      {
+        "word": "insinuate",
+        "meaning": "使潜入；暗示"
+      }
+    ],
+    "answer": "roast",
+    "explanation": "答案：roast（烤）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "mut",
+    "word": "mutate",
+    "prompt": "根据句意，选择最适合填入空格的词：A virus can ________ when conditions change.",
+    "options": [
+      {
+        "word": "transmutable",
+        "meaning": "可变形的；可变质的；可变的"
+      },
+      {
+        "word": "mutate",
+        "meaning": "改变；突变"
+      },
+      {
+        "word": "commutability",
+        "meaning": "可交换性；可变换性"
+      },
+      {
+        "word": "mutualism",
+        "meaning": "相互的主义，学说"
+      }
+    ],
+    "answer": "mutate",
+    "explanation": "答案：mutate（改变；突变）。其他选项同属词根 mut，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "musician",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "musician",
+        "meaning": "音乐家"
+      },
+      {
+        "word": "ply",
+        "meaning": "弯，折"
+      },
+      {
+        "word": "dry",
+        "meaning": "干的"
+      },
+      {
+        "word": "adult",
+        "meaning": "已成熟的；已成年的"
+      }
+    ],
+    "answer": "musician",
+    "explanation": "答案：musician（音乐家）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "cred",
+    "word": "credit",
+    "prompt": "根据句意，选择最适合填入空格的词：The problem began late last year, when Penguin Random House confirmed that it had introduced a ________ limit with Waterstones \"at a very significant level\".",
+    "options": [
+      {
+        "word": "credit",
+        "meaning": "赊购"
+      },
+      {
+        "word": "unaccredited",
+        "meaning": "未经授权的,未被接受的,未呈递国书的"
+      },
+      {
+        "word": "incredibly",
+        "meaning": "不能相信地"
+      },
+      {
+        "word": "accredit",
+        "meaning": "信任；相信"
+      }
+    ],
+    "answer": "credit",
+    "explanation": "答案：credit（赊购）。其他选项同属词根 cred，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "lev",
+    "word": "irrelevancy",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ of the detail became clear during the review.",
+    "options": [
+      {
+        "word": "irrelevant",
+        "meaning": "不恰当的,无关系的,不相干的；无关的,不相干的,离题的"
+      },
+      {
+        "word": "leveraging",
+        "meaning": "促使…改变(的现在分词);杠杆式投机,（使）举债经营,（使）利用贷款进行投机"
+      },
+      {
+        "word": "leverage",
+        "meaning": "杠杆作用"
+      },
+      {
+        "word": "irrelevancy",
+        "meaning": "无关,离题,不中肯,不相干,不相干的话,无关的事实,枝节问题；无关联的事,离题,不相平"
+      }
+    ],
+    "answer": "irrelevancy",
+    "explanation": "答案：irrelevancy（无关,离题,不中肯,不相干,不相干的话,无关的事实,枝节问题；无关联的事,离题,不相平）。其他选项同属词根 lev，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "battle",
+    "prompt": "根据句意，选择最适合填入空格的词：The Church's long-standing dogma was losing the great ________ for truth to rationalists and scientists.",
+    "options": [
+      {
+        "word": "dance",
+        "meaning": "跳舞"
+      },
+      {
+        "word": "sing",
+        "meaning": "唱"
+      },
+      {
+        "word": "battle",
+        "meaning": "战斗；战役"
+      },
+      {
+        "word": "illness",
+        "meaning": "疾病"
+      }
+    ],
+    "answer": "battle",
+    "explanation": "答案：battle（战斗；战役）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "november",
+    "prompt": "根据句意，选择最适合填入空格的词：The performance was a creative call to action ahead of ________'s United Nations Climate Change Conference in Glasgow, UK.",
+    "options": [
+      {
+        "word": "arise",
+        "meaning": "发生"
+      },
+      {
+        "word": "chin",
+        "meaning": "颏"
+      },
+      {
+        "word": "scissors",
+        "meaning": "剪刀"
+      },
+      {
+        "word": "november",
+        "meaning": "十一月"
+      }
+    ],
+    "answer": "november",
+    "explanation": "答案：november（十一月）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "stat",
+    "word": "overstated",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“夸大（某事）(的过去式和过去分词)”意思最相符的单词。",
+    "options": [
+      {
+        "word": "substation",
+        "meaning": "分局,分台,分所；变电厂"
+      },
+      {
+        "word": "statics",
+        "meaning": "静力学"
+      },
+      {
+        "word": "overstated",
+        "meaning": "夸大（某事）(的过去式和过去分词)"
+      },
+      {
+        "word": "stationing",
+        "meaning": "驻军"
+      }
+    ],
+    "answer": "overstated",
+    "explanation": "答案：overstated（夸大（某事）(的过去式和过去分词)）。其他选项同属词根 stat，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "uni- (一,单)",
+    "word": "disunity",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "disunity",
+        "meaning": "不统一，不团结"
+      },
+      {
+        "word": "unitary",
+        "meaning": "单一的；个体的；中央集权的"
+      },
+      {
+        "word": "Unanimous",
+        "meaning": "思想一致的；观点统一的"
+      },
+      {
+        "word": "Unity",
+        "meaning": "单一性；整体性"
+      }
+    ],
+    "answer": "disunity",
+    "explanation": "答案：disunity（不统一，不团结）。其他选项同属词根 uni- (一,单)，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fac",
+    "word": "affection",
+    "prompt": "根据句意，选择最适合填入空格的词：She showed great ________ for her students.",
+    "options": [
+      {
+        "word": "defection",
+        "meaning": "背信；变节"
+      },
+      {
+        "word": "perfect",
+        "meaning": "完成时；完美的,完好的,理想的,熟练的,精确的,完成式的；使完美,修改,使精通,改善,使熟练"
+      },
+      {
+        "word": "affection",
+        "meaning": "影响；感情"
+      },
+      {
+        "word": "facial",
+        "meaning": "美颜"
+      }
+    ],
+    "answer": "affection",
+    "explanation": "答案：affection（影响；感情）。其他选项同属词根 fac，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "mut",
+    "word": "mutation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines ________ in education.",
+    "options": [
+      {
+        "word": "mutualist",
+        "meaning": "相互的者，家"
+      },
+      {
+        "word": "mutuality",
+        "meaning": "相互关系"
+      },
+      {
+        "word": "mutation",
+        "meaning": "变化，变异，更换，转变"
+      },
+      {
+        "word": "transmute",
+        "meaning": "变形；变质"
+      }
+    ],
+    "answer": "mutation",
+    "explanation": "答案：mutation（变化，变异，更换，转变）。其他选项同属词根 mut，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "car",
+    "word": "car",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“（词根）车”意思最相符的单词。",
+    "options": [
+      {
+        "word": "car",
+        "meaning": "（词根）车"
+      },
+      {
+        "word": "career",
+        "meaning": "跑道；进程；生涯，职业"
+      },
+      {
+        "word": "care",
+        "meaning": "小心"
+      },
+      {
+        "word": "surcharge",
+        "meaning": "使超载；使负担过重"
+      }
+    ],
+    "answer": "car",
+    "explanation": "答案：car（（词根）车）。其他选项同属词根 car，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "mar",
+    "word": "ultramarine",
+    "prompt": "根据句意，选择最适合填入空格的词：Silk products were ________ precious materials to ancient Romans.",
+    "options": [
+      {
+        "word": "marshland",
+        "meaning": "沼泽地区,沼泽地"
+      },
+      {
+        "word": "marinated",
+        "meaning": "把…浸泡于腌泡汁中（的过去式与过去分词形式）"
+      },
+      {
+        "word": "ultramarine",
+        "meaning": "在海那边的，海外的；在地中海对岸的"
+      },
+      {
+        "word": "submariner",
+        "meaning": "潜水艇乘员"
+      }
+    ],
+    "answer": "ultramarine",
+    "explanation": "答案：ultramarine（在海那边的，海外的；在地中海对岸的）。其他选项同属词根 mar，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "camel",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“骆驼”意思最相符的单词。",
+    "options": [
+      {
+        "word": "camel",
+        "meaning": "骆驼"
+      },
+      {
+        "word": "cease",
+        "meaning": "停止"
+      },
+      {
+        "word": "Coarse",
+        "meaning": "粗糙的"
+      },
+      {
+        "word": "kilo",
+        "meaning": "千"
+      }
+    ],
+    "answer": "camel",
+    "explanation": "答案：camel（骆驼）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "swift",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“褐雨燕”意思最相符的单词。",
+    "options": [
+      {
+        "word": "swift",
+        "meaning": "褐雨燕"
+      },
+      {
+        "word": "manager",
+        "meaning": "管理人；经理"
+      },
+      {
+        "word": "boat",
+        "meaning": "船"
+      },
+      {
+        "word": "brochure",
+        "meaning": "小册子"
+      }
+    ],
+    "answer": "swift",
+    "explanation": "答案：swift（褐雨燕）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vert",
+    "word": "irreversible",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“不可倒转的，不可逆的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "irreversible",
+        "meaning": "不可倒转的，不可逆的"
+      },
+      {
+        "word": "reverted",
+        "meaning": "恢复(的过去式和过去分词);重提;回到…上;<律>归还"
+      },
+      {
+        "word": "inverting",
+        "meaning": "颠倒、反转的"
+      },
+      {
+        "word": "perversity",
+        "meaning": "乖僻,倔强,任性,反常,性变态"
+      }
+    ],
+    "answer": "irreversible",
+    "explanation": "答案：irreversible（不可倒转的，不可逆的）。其他选项同属词根 vert，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "ambassador",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“大使”意思最相符的单词。",
+    "options": [
+      {
+        "word": "rancher",
+        "meaning": "大牧场主；大牧场管理人"
+      },
+      {
+        "word": "bride",
+        "meaning": "新娘 A"
+      },
+      {
+        "word": "ambassador",
+        "meaning": "大使"
+      },
+      {
+        "word": "Enhance",
+        "meaning": "提高"
+      }
+    ],
+    "answer": "ambassador",
+    "explanation": "答案：ambassador（大使）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "port",
+    "word": "importing",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“进口、进口商品的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "port",
+        "meaning": "（词根）部分；大门；拿，运"
+      },
+      {
+        "word": "importing",
+        "meaning": "进口、进口商品的"
+      },
+      {
+        "word": "misreport",
+        "meaning": "谎报,误报,报导不实"
+      },
+      {
+        "word": "portal",
+        "meaning": "入口,大门；肝门的"
+      }
+    ],
+    "answer": "importing",
+    "explanation": "答案：importing（进口、进口商品的）。其他选项同属词根 port，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "psych",
+    "word": "psychosocial",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“社会心理的(指社会环境影响下的个人心理变化)”意思最相符的单词。",
+    "options": [
+      {
+        "word": "psychosocial",
+        "meaning": "社会心理的(指社会环境影响下的个人心理变化)"
+      },
+      {
+        "word": "psychologically",
+        "meaning": "心理地"
+      },
+      {
+        "word": "psychotherapeutic",
+        "meaning": "精神疗法药"
+      },
+      {
+        "word": "intrapsychic",
+        "meaning": "内心的"
+      }
+    ],
+    "answer": "psychosocial",
+    "explanation": "答案：psychosocial（社会心理的(指社会环境影响下的个人心理变化)）。其他选项同属词根 psych，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "noise",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“噪音”意思最相符的单词。",
+    "options": [
+      {
+        "word": "friendly",
+        "meaning": "友好的"
+      },
+      {
+        "word": "noise",
+        "meaning": "噪音"
+      },
+      {
+        "word": "insinuate",
+        "meaning": "使潜入；暗示"
+      },
+      {
+        "word": "cross",
+        "meaning": "十字架"
+      }
+    ],
+    "answer": "noise",
+    "explanation": "答案：noise（噪音）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "opt",
+    "word": "panoptic",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“展示全景的,一览无遗的；全染的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "operator",
+        "meaning": "操作员"
+      },
+      {
+        "word": "synopsize",
+        "meaning": "作的提要,为做摘要"
+      },
+      {
+        "word": "opticist",
+        "meaning": "光学家"
+      },
+      {
+        "word": "panoptic",
+        "meaning": "展示全景的,一览无遗的；全染的"
+      }
+    ],
+    "answer": "panoptic",
+    "explanation": "答案：panoptic（展示全景的,一览无遗的；全染的）。其他选项同属词根 opt，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "team",
+    "prompt": "根据句意，选择最适合填入空格的词：In addition to the entourage of scientists, the ________ also included artists: Painter Thomas Moran and photographer Jackson were charged with capturing this astounding natural beauty and sharing it with the world.",
+    "options": [
+      {
+        "word": "pence",
+        "meaning": "(非正式)便士,(美)分,分币"
+      },
+      {
+        "word": "colonize",
+        "meaning": "将…变成殖民地；开拓…成殖民地"
+      },
+      {
+        "word": "team",
+        "meaning": "队"
+      },
+      {
+        "word": "subdue",
+        "meaning": "使服从,压制,减弱,抑制,克制"
+      }
+    ],
+    "answer": "team",
+    "explanation": "答案：team（队）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "ignore",
+    "prompt": "根据句意，选择最适合填入空格的词：(48) Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ________.",
+    "options": [
+      {
+        "word": "ignore",
+        "meaning": "不理睬"
+      },
+      {
+        "word": "march",
+        "meaning": "三月"
+      },
+      {
+        "word": "jar",
+        "meaning": "广口瓶"
+      },
+      {
+        "word": "theater",
+        "meaning": "戏院"
+      }
+    ],
+    "answer": "ignore",
+    "explanation": "答案：ignore（不理睬）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "Subway",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“地铁 A”意思最相符的单词。",
+    "options": [
+      {
+        "word": "surplus",
+        "meaning": "剩余,过剩,盈余；过剩的,剩余的"
+      },
+      {
+        "word": "Subway",
+        "meaning": "地铁 A"
+      },
+      {
+        "word": "esteem",
+        "meaning": "尊重，认为 n."
+      },
+      {
+        "word": "snake",
+        "meaning": "蛇"
+      }
+    ],
+    "answer": "Subway",
+    "explanation": "答案：Subway（地铁 A）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "anim",
+    "word": "animalist",
+    "prompt": "根据句意，选择最适合填入空格的词：The ________ joined the meeting and shared a view.",
+    "options": [
+      {
+        "word": "animalist",
+        "meaning": "动物者，家"
+      },
+      {
+        "word": "animal",
+        "meaning": "动物"
+      },
+      {
+        "word": "animalcule",
+        "meaning": "小动物，微生物"
+      },
+      {
+        "word": "animation",
+        "meaning": "活跃；生气"
+      }
+    ],
+    "answer": "animalist",
+    "explanation": "答案：animalist（动物者，家）。其他选项同属词根 anim，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "daytime",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“白天”意思最相符的单词。",
+    "options": [
+      {
+        "word": "witness",
+        "meaning": "证人"
+      },
+      {
+        "word": "Recruit",
+        "meaning": "招募、新兵"
+      },
+      {
+        "word": "night",
+        "meaning": "夜间"
+      },
+      {
+        "word": "daytime",
+        "meaning": "白天"
+      }
+    ],
+    "answer": "daytime",
+    "explanation": "答案：daytime（白天）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "scholar",
+    "prompt": "根据句意，选择最适合填入空格的词：Americans today don't place a very high value on intellect. Our heroes are athletes, entertainers, and entrepreneurs, not ________. Even our schools are where we send our children to get a practical education—not to pursue knowledge for the sake of knowledge. Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.",
+    "options": [
+      {
+        "word": "Inertia",
+        "meaning": "惯性"
+      },
+      {
+        "word": "gentle",
+        "meaning": "温和的"
+      },
+      {
+        "word": "scholar",
+        "meaning": "学者 A"
+      },
+      {
+        "word": "thick",
+        "meaning": "厚的"
+      }
+    ],
+    "answer": "scholar",
+    "explanation": "答案：scholar（学者 A）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "nom",
+    "word": "taxonomic",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“分类学的,分类的；分类的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "nominate",
+        "meaning": "提名；推荐"
+      },
+      {
+        "word": "taxonomy",
+        "meaning": "分类学,分类系统；分类学"
+      },
+      {
+        "word": "nom",
+        "meaning": "（词根）名字"
+      },
+      {
+        "word": "taxonomic",
+        "meaning": "分类学的,分类的；分类的"
+      }
+    ],
+    "answer": "taxonomic",
+    "explanation": "答案：taxonomic（分类学的,分类的；分类的）。其他选项同属词根 nom，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "pet",
+    "word": "impetuous",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“猛进的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "perpetuate",
+        "meaning": "使永存,使不朽,保持"
+      },
+      {
+        "word": "impetuous",
+        "meaning": "猛进的"
+      },
+      {
+        "word": "competition",
+        "meaning": "比赛；竞争"
+      },
+      {
+        "word": "competitive",
+        "meaning": "竞争的"
+      }
+    ],
+    "answer": "impetuous",
+    "explanation": "答案：impetuous（猛进的）。其他选项同属词根 pet，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "port",
+    "word": "deportation",
+    "prompt": "根据句意，选择最适合填入空格的词：The study examines how ________ affects the final decision.",
+    "options": [
+      {
+        "word": "unsupportive",
+        "meaning": "不值得拥护的"
+      },
+      {
+        "word": "passport",
+        "meaning": "护照"
+      },
+      {
+        "word": "deportation",
+        "meaning": "放逐"
+      },
+      {
+        "word": "rapporteur",
+        "meaning": "做报告者,大会报告起草人；负责整理编辑报告者,主要起草人"
+      }
+    ],
+    "answer": "deportation",
+    "explanation": "答案：deportation（放逐）。其他选项同属词根 port，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ced",
+    "word": "Concede",
+    "prompt": "根据句意，选择最适合填入空格的词：The committee ________ the point after reviewing the evidence.",
+    "options": [
+      {
+        "word": "Concession",
+        "meaning": "让步；优惠；特许权"
+      },
+      {
+        "word": "procedure",
+        "meaning": "过程；程序"
+      },
+      {
+        "word": "Concede",
+        "meaning": "让步"
+      },
+      {
+        "word": "successful",
+        "meaning": "成功的"
+      }
+    ],
+    "answer": "Concede",
+    "explanation": "答案：Concede（让步）。其他选项同属词根 ced，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "ced",
+    "word": "process",
+    "prompt": "根据句意，选择最适合填入空格的词：But this distinction misses the point that it is ________ and aggregation, not the mere possession of bits, that gives the data value.",
+    "options": [
+      {
+        "word": "process",
+        "meaning": "过程；进程"
+      },
+      {
+        "word": "secession",
+        "meaning": "脱离；退出"
+      },
+      {
+        "word": "procedure",
+        "meaning": "过程；程序"
+      },
+      {
+        "word": "recessional",
+        "meaning": "衰退的；经济衰退的"
+      }
+    ],
+    "answer": "process",
+    "explanation": "答案：process（过程；进程）。其他选项同属词根 ced，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "towel",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“美国英语用”意思最相符的单词。",
+    "options": [
+      {
+        "word": "wet",
+        "meaning": "湿气"
+      },
+      {
+        "word": "historical",
+        "meaning": "历史的"
+      },
+      {
+        "word": "zip",
+        "meaning": "尖啸声"
+      },
+      {
+        "word": "towel",
+        "meaning": "美国英语用"
+      }
+    ],
+    "answer": "towel",
+    "explanation": "答案：towel（美国英语用）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "plic",
+    "word": "plic",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“（词根）弯，折”意思最相符的单词。",
+    "options": [
+      {
+        "word": "applicable",
+        "meaning": "可应用的；适用的"
+      },
+      {
+        "word": "explicitly",
+        "meaning": "明确地"
+      },
+      {
+        "word": "plic",
+        "meaning": "（词根）弯，折"
+      },
+      {
+        "word": "implicated",
+        "meaning": "密切关联的；牵涉其中的"
+      }
+    ],
+    "answer": "plic",
+    "explanation": "答案：plic（（词根）弯，折）。其他选项同属词根 plic，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "vid",
+    "word": "vid",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“（词根）看见”意思最相符的单词。",
+    "options": [
+      {
+        "word": "proviso",
+        "meaning": "附文,附带条件,限制性条款；合同中的限制条款,条件"
+      },
+      {
+        "word": "vid",
+        "meaning": "（词根）看见"
+      },
+      {
+        "word": "television",
+        "meaning": "电视"
+      },
+      {
+        "word": "advisory",
+        "meaning": "顾问的；劝告的，咨询的"
+      }
+    ],
+    "answer": "vid",
+    "explanation": "答案：vid（（词根）看见）。其他选项同属词根 vid，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "loc",
+    "word": "locational",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“位置上的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "locational",
+        "meaning": "位置上的"
+      },
+      {
+        "word": "collocation",
+        "meaning": "配置；搭配"
+      },
+      {
+        "word": "local",
+        "meaning": "地方的；当地的"
+      },
+      {
+        "word": "locate",
+        "meaning": "使设置于；使定位于"
+      }
+    ],
+    "answer": "locational",
+    "explanation": "答案：locational（位置上的）。其他选项同属词根 loc，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "fer",
+    "word": "interferent",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“干扰物”意思最相符的单词。",
+    "options": [
+      {
+        "word": "undifferentiated",
+        "meaning": "无差别的,一致的,尚未显出差别的"
+      },
+      {
+        "word": "transferal",
+        "meaning": "转移；转让;感情转移"
+      },
+      {
+        "word": "interferent",
+        "meaning": "干扰物"
+      },
+      {
+        "word": "differentiating",
+        "meaning": "微分的"
+      }
+    ],
+    "answer": "interferent",
+    "explanation": "答案：interferent（干扰物）。其他选项同属词根 fer，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "其他常用词",
+    "word": "appoint",
+    "prompt": "根据句意，选择最适合填入空格的词：In December of 1869, Congress ________ a commission to select a site and prepare plans and cost estimates for a new State Department Building.",
+    "options": [
+      {
+        "word": "appoint",
+        "meaning": "任命"
+      },
+      {
+        "word": "counterclockwise",
+        "meaning": "逆时针地"
+      },
+      {
+        "word": "freeway",
+        "meaning": "高速公路"
+      },
+      {
+        "word": "choose",
+        "meaning": "选择"
+      }
+    ],
+    "answer": "appoint",
+    "explanation": "答案：appoint（任命）。其他选项同属词根 其他常用词，但在本句语境中含义不合适。"
+  },
+  {
+    "root": "stinct",
+    "word": "Distinct",
+    "prompt": "根据句意，选择最适合填入空格的词：选择与“独立的；清楚的；显著的”意思最相符的单词。",
+    "options": [
+      {
+        "word": "Extinct",
+        "meaning": "已消灭的；已绝种的，已灭绝的"
+      },
+      {
+        "word": "Distinguish",
+        "meaning": "区别；辨别；把…分类"
+      },
+      {
+        "word": "Distinction",
+        "meaning": "区分，辨别；差别"
+      },
+      {
+        "word": "Distinct",
+        "meaning": "独立的；清楚的；显著的"
+      }
+    ],
+    "answer": "Distinct",
+    "explanation": "答案：Distinct（独立的；清楚的；显著的）。其他选项同属词根 stinct，但在本句语境中含义不合适。"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "tech (技艺)",
+  "meaning": "技艺",
+  "words": [
+    {
+      "word": "architecture",
+      "meaning": "建筑学",
+      "example": "E. The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country.",
+      "source": "2018年真题"
+    },
+    {
+      "word": "technology",
+      "meaning": "科技",
+      "example": "And more is at stake here than individual objects.Joana Lia Ferreira,an assistant professor of conservation and restoration at the NOVA School of Science and Technology,notes that archaeologists first defined the great material ages of human history-Stone Age, Iron Age, and so on-after examining artifacts in museums. We now live in an age of plastic, she says, “and what we decide to collect today, what we decide to preserve...will have a strong impact on how in the future we'll be seen.”",
+      "source": "2022年真题"
+    }
+  ]
+}

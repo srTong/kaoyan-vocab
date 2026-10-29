@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语考试词汇 - 词根记忆法</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'></text></svg>">
+</head>
+<body>
+    <div class="container">
+        <!-- 用户认证区域 -->
+        <div class="auth-section">
+            <button id="loginBtn" class="btn-login" style="display: none;" onclick="login()">🔐 登录</button>
+            <div id="userInfo" class="user-info" style="display: none;">
+                <img id="userAvatar" class="user-avatar" src="" alt="用户头像">
+                <span id="userName" class="user-name"></span>
+                <button class="btn-logout" onclick="logout()">登出</button>
+            </div>
+        </div>
+
+        <header>
+            <h1>英语考试词汇</h1>
+            <p class="subtitle">多考试范围 · 词根记忆法 · 语境练习</p>
+            <div class="stats">
+                <span class="stat-item">词根 <strong id="rootCount">0</strong></span>
+                <span class="stat-item">单词 <strong id="wordCount">0</strong></span>
+                <span class="stat-item">例句 <strong id="exampleCount">0</strong></span>
+            </div>
+        </header>
+
+        <main>
+            <section class="scope-panel" aria-labelledby="scopeTitle">
+                <div class="scope-heading">
+                    <div>
+                        <h2 id="scopeTitle">选择词汇范围</h2>
+                        <p>可多选；多个范围按并集显示。小学词表不在本项目中。</p>
+                    </div>
+                    <button id="allScopesBtn" class="scope-all" type="button">全部范围</button>
+                </div>
+                <div id="scopeFilters" class="scope-filters" aria-label="词汇范围筛选"></div>
+            </section>
+
+            <div class="action-bar">
+                <button id="practiceBtn" class="btn btn-primary">🎯 开始练习</button>
+            </div>
+
+            <div id="rootsList" class="roots-grid">
+                <!-- 词根卡片将通过 JS 动态生成 -->
+            </div>
+
+            <section class="non-high-freq-section">
+                <h2>📖 非高频词汇</h2>
+                <p class="section-desc">以下词汇在考研中出现频率较低，但仍需掌握</p>
+                <div id="nonHighFreqList" class="non-high-freq-grid">
+                    <!-- 非高频词汇将通过 JS 动态生成 -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Auth0 SDK -->
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.22/auth0-spa.js"></script>
+    <script src="auth.js"></script>
+    <script src="app.js?v=20261027-quality-gate-18"></script>
+</body>
+</html>

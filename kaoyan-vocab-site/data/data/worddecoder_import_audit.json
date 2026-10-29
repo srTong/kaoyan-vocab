@@ -1,0 +1,18 @@
+{
+  "source": "https://github.com/RichardoZhao/WordDecoder",
+  "version": "v3.0",
+  "excludedScopes": [
+    "小学"
+  ],
+  "availableScopes": [
+    "中考",
+    "高考",
+    "四级",
+    "六级",
+    "考研",
+    "托福",
+    "雅思"
+  ],
+  "addedWords": [],
+  "moves": []
+}

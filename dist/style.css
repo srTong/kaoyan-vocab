@@ -1,0 +1,1025 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --primary-light: #dbeafe;
+    --secondary: #0f172a;
+    --accent: #f59e0b;
+    --success: #10b981;
+    --danger: #ef4444;
+    --gray-50: #f8fafc;
+    --gray-100: #f1f5f9;
+    --gray-200: #e2e8f0;
+    --gray-300: #cbd5e1;
+    --gray-400: #94a3b8;
+    --gray-500: #64748b;
+    --gray-600: #475569;
+    --gray-700: #334155;
+    --gray-800: #1e293b;
+    --gray-900: #0f172a;
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    --radius: 12px;
+    --radius-lg: 16px;
+    --radius-xl: 24px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', sans-serif;
+    background: var(--gray-50);
+    min-height: 100vh;
+    color: var(--gray-800);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+/* 用户认证区域 */
+.auth-section {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 16px 0;
+}
+
+.btn-login {
+    background: var(--primary);
+    color: white;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-login:hover {
+    background: var(--primary-dark);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+}
+
+.user-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.user-name {
+    font-weight: 600;
+    color: var(--gray-700);
+    font-size: 14px;
+}
+
+.btn-logout {
+    background: transparent;
+    color: var(--gray-500);
+    padding: 6px 12px;
+    border: 1px solid var(--gray-200);
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-logout:hover {
+    background: var(--gray-100);
+    color: var(--gray-700);
+}
+
+/* 头部 */
+header {
+    text-align: center;
+    padding: 48px 0 40px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--gray-900);
+    margin-bottom: 12px;
+    letter-spacing: -0.02em;
+}
+
+.subtitle {
+    font-size: 1.125rem;
+    color: var(--gray-500);
+    margin-bottom: 32px;
+    font-weight: 400;
+}
+
+.btn-practice {
+    background: var(--primary);
+    color: white;
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: 16px;
+    transition: all 0.2s;
+}
+
+.btn-practice:hover {
+    background: var(--primary-dark);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+/* 统计信息 */
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.stat-item {
+    background: white;
+    padding: 16px 24px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    font-size: 14px;
+    color: var(--gray-600);
+    min-width: 140px;
+}
+
+.stat-item strong {
+    font-size: 1.5rem;
+    color: var(--primary);
+    margin-left: 8px;
+    font-weight: 700;
+}
+
+/* 主内容区 */
+main {
+    padding-bottom: 60px;
+}
+
+.action-bar {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.btn {
+    padding: 12px 28px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: white;
+}
+
+.btn-primary:hover {
+    background: var(--primary-dark);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+    background: var(--gray-100);
+    color: var(--gray-700);
+}
+
+.btn-secondary:hover {
+    background: var(--gray-200);
+}
+
+/* 词根网格 */
+.roots-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+    margin-bottom: 48px;
+}
+
+.root-card {
+    background: white;
+    border-radius: var(--radius-lg);
+    padding: 28px;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    transition: all 0.2s;
+    border: 1px solid var(--gray-100);
+}
+
+.root-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--primary-light);
+}
+
+.root-card h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-bottom: 8px;
+}
+
+.root-card p {
+    color: var(--gray-500);
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.story-preview {
+    font-size: 13px;
+    color: var(--gray-600);
+    line-height: 1.6;
+    margin-bottom: 16px;
+    padding: 12px;
+    background: var(--gray-50);
+    border-radius: var(--radius);
+    border-left: 3px solid var(--primary-light);
+}
+
+.word-count {
+    display: flex;
+    gap: 16px;
+    font-size: 13px;
+    color: var(--gray-400);
+}
+
+.word-count span {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+/* 非高频词汇区 */
+.non-high-freq-section {
+    background: white;
+    border-radius: var(--radius-xl);
+    padding: 40px;
+    box-shadow: var(--shadow);
+    margin-top: 20px;
+}
+
+.non-high-freq-section h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-bottom: 8px;
+}
+
+.section-desc {
+    color: var(--gray-500);
+    font-size: 14px;
+    margin-bottom: 32px;
+}
+
+.non-high-freq-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 12px;
+}
+
+.non-high-freq-card {
+    background: var(--gray-50);
+    border: 1px solid var(--gray-100);
+    border-radius: var(--radius);
+    padding: 16px;
+    transition: all 0.2s;
+}
+
+.non-high-freq-card:hover {
+    background: var(--primary-light);
+    border-color: var(--primary);
+    transform: translateY(-1px);
+}
+
+.non-high-freq-card .word {
+    font-weight: 700;
+    font-size: 15px;
+    color: var(--gray-900);
+    margin-bottom: 4px;
+}
+
+.non-high-freq-card .meaning {
+    font-size: 12px;
+    color: var(--gray-500);
+}
+
+/* 词根详情页 */
+.back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--gray-600);
+    text-decoration: none;
+    padding: 10px 20px;
+    background: white;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s;
+    box-shadow: var(--shadow-sm);
+}
+
+.back-btn:hover {
+    background: var(--gray-100);
+    color: var(--gray-900);
+    transform: translateX(-2px);
+}
+
+.words-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* 词源故事框 */
+.root-story {
+    margin-bottom: 32px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.story-box {
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+    border-radius: var(--radius-lg);
+    padding: 28px;
+    border: 2px solid var(--primary-light);
+    box-shadow: var(--shadow-sm);
+}
+
+.story-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--primary-dark);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.story-title::before {
+    content: '📖';
+    font-size: 1.25rem;
+}
+
+.story-content {
+    font-size: 15px;
+    color: var(--gray-700);
+    line-height: 1.8;
+}
+
+.story-content strong {
+    color: var(--primary-dark);
+    font-weight: 600;
+}
+
+/* 词根分解框 */
+.etymology-box {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    border-left: 4px solid #f59e0b;
+    margin-bottom: 16px;
+}
+
+.etymology-label {
+    font-size: 12px;
+    font-weight: 700;
+    color: #92400e;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.etymology-label::before {
+    content: '🔍';
+    font-size: 14px;
+}
+
+.etymology-text {
+    font-size: 14px;
+    color: #78350f;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.word-card {
+    background: white;
+    border-radius: var(--radius-lg);
+    padding: 28px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--gray-100);
+}
+
+.word-header {
+    margin-bottom: 20px;
+}
+
+.word-title {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: var(--primary);
+    margin-bottom: 8px;
+    letter-spacing: -0.01em;
+}
+
+.phonetic {
+    color: var(--gray-500);
+    font-size: 0.58em;
+    font-weight: 500;
+    margin-left: 0.35em;
+    letter-spacing: 0;
+}
+
+.word-meaning {
+    font-size: 15px;
+    color: var(--gray-600);
+    font-weight: 500;
+}
+
+.example-box {
+    background: var(--gray-50);
+    border-radius: var(--radius);
+    padding: 20px;
+    border-left: 4px solid var(--primary);
+}
+
+.example-text {
+    font-size: 15px;
+    color: var(--gray-700);
+    line-height: 1.7;
+    margin-bottom: 12px;
+}
+
+.example-source {
+    font-size: 12px;
+    color: var(--gray-400);
+    font-style: italic;
+}
+
+.no-example {
+    color: var(--gray-400);
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* 练习页面 */
+.practice-container {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.progress-bar {
+    height: 8px;
+    background: var(--gray-200);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 16px;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--primary-dark));
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}
+
+.progress-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+    font-size: 14px;
+    color: var(--gray-500);
+}
+
+.score {
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.question-card {
+    background: white;
+    border-radius: var(--radius-xl);
+    padding: 40px;
+    box-shadow: var(--shadow-lg);
+    margin-bottom: 24px;
+}
+
+.example-sentence {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--gray-700);
+    margin-bottom: 32px;
+}
+
+.blank {
+    display: inline-block;
+    min-width: 120px;
+    border-bottom: 2px solid var(--primary);
+    padding: 0 8px;
+    margin: 0 4px;
+    font-weight: 600;
+    color: var(--primary);
+    text-align: center;
+}
+
+.source-info {
+    font-size: 12px;
+    color: var(--gray-400);
+    margin-bottom: 32px;
+    font-style: italic;
+}
+
+.options {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+}
+
+.option-btn {
+    padding: 16px 20px;
+    border: 2px solid var(--gray-200);
+    border-radius: var(--radius);
+    background: white;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--gray-700);
+    cursor: pointer;
+    transition: all 0.2s;
+    text-align: center;
+}
+
+.option-word {
+    display: block;
+}
+
+.option-detail {
+    display: none;
+    margin-top: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: var(--gray-500);
+}
+
+.option-detail[hidden] {
+    display: none !important;
+}
+
+.option-btn.revealed .option-detail {
+    display: block;
+}
+
+.option-root {
+    margin-top: 3px;
+    font-size: 12px;
+    color: var(--gray-400);
+    text-align: left;
+}
+
+.option-btn.correct .option-detail,
+.option-btn.wrong .option-detail {
+    color: inherit;
+    opacity: 0.82;
+}
+
+.option-btn:hover:not(.disabled) {
+    border-color: var(--primary);
+    background: var(--primary-light);
+    color: var(--primary);
+}
+
+.option-btn.correct {
+    border-color: var(--success);
+    background: #d1fae5;
+    color: var(--success);
+}
+
+.option-btn.wrong {
+    border-color: var(--danger);
+    background: #fee2e2;
+    color: var(--danger);
+}
+
+.option-btn.disabled {
+    cursor: not-allowed;
+    opacity: 1;
+}
+
+.feedback {
+    margin-top: 24px;
+    padding: 16px;
+    border-radius: var(--radius);
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.feedback.correct {
+    background: #d1fae5;
+    color: var(--success);
+}
+
+.feedback.wrong {
+    background: #fee2e2;
+    color: var(--danger);
+}
+
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.scope-panel {
+    margin: 0 auto 24px;
+    padding: 20px;
+    background: white;
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+}
+
+.scope-heading {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.scope-heading h2 {
+    font-size: 1.05rem;
+    color: var(--gray-900);
+    margin-bottom: 2px;
+}
+
+.scope-heading p {
+    color: var(--gray-500);
+    font-size: 0.85rem;
+}
+
+.scope-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.scope-chip,
+.scope-all {
+    min-height: 42px;
+    padding: 9px 14px;
+    border: 1px solid var(--gray-200);
+    border-radius: 999px;
+    background: var(--gray-50);
+    color: var(--gray-700);
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.18s ease;
+}
+
+.scope-chip span {
+    margin-left: 7px;
+    color: var(--gray-400);
+    font-size: 0.78rem;
+    font-weight: 500;
+}
+
+.scope-chip:hover,
+.scope-all:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.scope-chip.active,
+.scope-all.active {
+    border-color: var(--primary);
+    background: var(--primary);
+    color: white;
+    box-shadow: var(--shadow-sm);
+}
+
+.scope-chip.active span {
+    color: var(--primary-light);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 16px;
+    }
+    
+    header h1 {
+        font-size: 1.75rem;
+    }
+    
+    .subtitle {
+        font-size: 1rem;
+    }
+    
+    .stats {
+        gap: 12px;
+    }
+    
+    .stat-item {
+        padding: 12px 16px;
+        min-width: 100px;
+        font-size: 13px;
+    }
+    
+    .stat-item strong {
+        font-size: 1.25rem;
+    }
+    
+    .roots-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+    
+    .root-card {
+        padding: 24px;
+    }
+    
+    .non-high-freq-section {
+        padding: 24px;
+    }
+    
+    .non-high-freq-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .question-card {
+        padding: 24px;
+    }
+    
+    .options {
+        grid-template-columns: 1fr;
+    }
+    
+    .word-title {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .non-high-freq-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .stats {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .stat-item {
+        width: 100%;
+        max-width: 280px;
+    }
+}
+
+/* 手机端增强：针对窄屏阅读和触控操作 */
+@media (max-width: 600px) {
+    html { font-size: 15px; }
+
+    body {
+        overflow-x: hidden;
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+
+    .container {
+        width: 100%;
+        padding: 0 12px;
+    }
+
+    .auth-section {
+        min-height: 56px;
+        padding: 10px 0;
+    }
+
+    .user-info {
+        max-width: 100%;
+        padding: 6px 10px;
+        gap: 8px;
+    }
+
+    .user-name {
+        max-width: 120px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    header {
+        padding: 20px 4px 24px;
+    }
+
+    header h1 {
+        line-height: 1.25;
+        word-break: break-word;
+    }
+
+    .subtitle {
+        line-height: 1.5;
+    }
+
+    .stats {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+        width: 100%;
+    }
+
+    .stat-item,
+    .stat-item:last-child {
+        width: auto;
+        min-width: 0;
+        max-width: none;
+        padding: 10px 4px;
+        text-align: center;
+    }
+
+    .stat-item strong {
+        display: block;
+        margin-top: 2px;
+    }
+
+    .action-bar {
+        margin: 0 0 16px;
+    }
+
+    .scope-panel {
+        padding: 16px;
+        margin-bottom: 16px;
+    }
+
+    .scope-heading {
+        display: block;
+    }
+
+    .scope-all {
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .scope-filters {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+    }
+
+    .scope-chip {
+        width: 100%;
+        padding-inline: 10px;
+    }
+
+    .btn,
+    .btn-practice,
+    .btn-login,
+    .btn-logout,
+    .back-btn {
+        min-height: 44px;
+    }
+
+    .btn-primary,
+    .btn-secondary,
+    .btn-practice {
+        width: 100%;
+        padding: 12px 16px;
+    }
+
+    .root-card,
+    .non-high-freq-section,
+    .question-card,
+    .root-story,
+    .word-card {
+        border-radius: 14px;
+        padding: 18px;
+    }
+
+    .root-card:active,
+    .option-btn:active,
+    .btn:active {
+        transform: scale(0.985);
+    }
+
+    .word-title {
+        font-size: 1.35rem;
+        line-height: 1.35;
+        overflow-wrap: anywhere;
+    }
+
+    .phonetic {
+        display: block;
+        margin: 4px 0 0;
+        font-size: 0.68em;
+    }
+
+    .word-meaning,
+    .example-text,
+    .etymology-text {
+        overflow-wrap: anywhere;
+    }
+
+    .example-box,
+    .etymology-box {
+        padding: 14px;
+    }
+
+    .example-text {
+        font-size: 0.95rem;
+        line-height: 1.7;
+    }
+
+    .question-card {
+        margin-top: 12px;
+    }
+
+    .example-sentence {
+        font-size: 1rem;
+        line-height: 1.8;
+        text-align: left;
+        overflow-wrap: anywhere;
+    }
+
+    .source-info {
+        line-height: 1.5;
+        text-align: left;
+    }
+
+    .options {
+        gap: 10px;
+    }
+
+    .option-btn {
+        min-height: 52px;
+        padding: 13px 14px;
+        text-align: left;
+        line-height: 1.45;
+        white-space: normal;
+        overflow-wrap: anywhere;
+    }
+
+    .feedback {
+        margin-top: 16px;
+        padding: 13px;
+        text-align: left;
+        line-height: 1.55;
+    }
+
+    .action-buttons {
+        position: sticky;
+        bottom: 0;
+        z-index: 5;
+        margin: 12px -12px 0;
+        padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+        background: rgb(248 250 252 / 0.94);
+        backdrop-filter: blur(8px);
+    }
+}

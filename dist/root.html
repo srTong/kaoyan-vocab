@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>词根详情 - 考研英语词汇</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 用户认证区域 -->
+        <div class="auth-section">
+            <button id="loginBtn" class="btn-login" style="display: none;" onclick="login()">🔐 登录</button>
+            <div id="userInfo" class="user-info" style="display: none;">
+                <img id="userAvatar" class="user-avatar" src="" alt="用户头像">
+                <span id="userName" class="user-name"></span>
+                <button class="btn-logout" onclick="logout()">登出</button>
+            </div>
+        </div>
+
+        <header>
+            <a href="index.html" class="back-btn">← 返回首页</a>
+            <h1 id="rootName">词根</h1>
+            <p class="subtitle" id="rootMeaning">词根含义</p>
+            <button id="practiceRootBtn" class="btn-practice">🎯 练习本词根</button>
+        </header>
+
+        <main>
+            <div id="rootStory" class="root-story"></div>
+            
+            <div id="wordsList" class="words-list">
+                <!-- 单词卡片将通过 JS 动态生成 -->
+            </div>
+        </main>
+    </div>
+
+    <!-- Auth0 SDK -->
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.22/auth0-spa.js"></script>
+    <script src="auth.js"></script>
+    <script src="root.js?v=20261027-quality-gate-18"></script>
+</body>
+</html>

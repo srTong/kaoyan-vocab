@@ -1,0 +1,18 @@
+{
+  "name": "sequ (跟随)",
+  "meaning": "跟随",
+  "words": [
+    {
+      "word": "secondary",
+      "meaning": "次要的",
+      "example": "<table><tr><td>In</td><td>Towards</td><td>On</td><td>Till</td></tr><tr><td>match</td><td>express</td><td>satisfy</td><td>influence</td></tr><tr><td>patience</td><td>enjoyment</td><td>surprise</td><td>concern</td></tr><tr><td>intensified</td><td>privileged</td><td>compelled</td><td>guaranteed</td></tr><tr><td>issued</td><td>received</td><td>ignored</td><td>cancelled</td></tr><tr><td>under</td><td>at</td><td>for</td><td>by</td></tr><tr><td>forget</td><td>regret</td><td>finish</td><td>avoid</td></tr><tr><td>partially</td><td>regularly</td><td>easily</td><td>initially</td></tr><tr><td>Unless</td><td>Since</td><td>If</td><td>While</td></tr><tr><td>secondary</td><td>external</td><td>conclusive</td><td>negative</td></tr><tr><td>insufficient</td><td>bound</td><td>likely</td><td>slow</td></tr><tr><td>On the basis of</td><td>At the cost of</td><td>In addition to</td><td>In contrast</td></tr><tr><td>interesting</td><td>advisable</td><td>urgent</td><td>fortunate</td></tr><tr><td>As usual</td><td>In particular</td><td>By definition</td><td>After all</td></tr><tr><td>resemblance</td><td>combination</td><td>connection</td><td>pattern</td></tr><tr><td>made</td><td>served</td><td>saved</td><td>used</td></tr><tr><td>To be fair</td><td>For instance</td><td>To be brief</td><td>In general</td></tr></table>",
+      "source": "2020年真题"
+    },
+    {
+      "word": "subsequent",
+      "meaning": "随后的",
+      "example": "The main disadvantage of using AI to respond to customers is that there are concerns about trusting personal interactions to machines, which could lead not only to the subsequent loss of interpersonal connections, but also to a decrease in marketing personnel. (47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. (48) Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.",
+      "source": "2023年真题"
+    }
+  ]
+}

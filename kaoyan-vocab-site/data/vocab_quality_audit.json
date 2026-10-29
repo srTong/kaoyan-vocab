@@ -1,0 +1,77 @@
+{
+  "totalWords": 9187,
+  "verifiedExamExamples": 2227,
+  "workbookExamples": 124,
+  "wordDecoderExamples": 255,
+  "curatedExamples": 375,
+  "generatedSimpleExamples": 1741,
+  "externalExamExamples": {},
+  "externalExamCorpus": {
+    "directories": [
+      "material/exam_corpus",
+      "material/考试语料",
+      "material/website/data/exam_corpus"
+    ],
+    "files": [],
+    "recognizedFiles": 0,
+    "candidateSentences": 0,
+    "matchedWords": 0,
+    "sourceCounts": {}
+  },
+  "withoutExample": 4409,
+  "withoutReliableExample": 4409,
+  "automaticTemplateExamples": 0,
+  "phoneticsPendingReview": 170,
+  "meaningsPendingReview": 0,
+  "missingEtymology": 0,
+  "examplesMissingTarget": 0,
+  "duplicateAuxiliaryExamples": 0,
+  "unsafeExamplePatterns": {
+    "The study examines the role of": 0,
+    "The report describes the policy as": 0,
+    "The report describes the result as": 0,
+    "The prices changed": 0,
+    "The results are": 0,
+    "The policy may": 0,
+    "The study examines how the policy": 0,
+    "The report mentions": 0,
+    "includes the word": 0
+  },
+  "meaningArtifactPatterns": {
+    "居先": 0,
+    "物质名词": 0,
+    "流利的地": 0,
+    "go行走": 0,
+    "flow流": 0,
+    "...": 0,
+    "的变形": 0,
+    "组件选通": 0,
+    "号元素": 0,
+    "读作": 0,
+    "待校对": 0
+  },
+  "etymologyArtifactPatterns": {
+    "物质名词": 0,
+    "go行走": 0,
+    "flow流": 0,
+    "say言": 0,
+    "有...性质的": 0,
+    "...者，...器": 0,
+    "已...的": 0,
+    "被...的": 0,
+    "已的": 0,
+    "被的": 0,
+    "one一": 0,
+    "lead引导": 0,
+    "有性质的": 0,
+    "与有关的": 0,
+    "共同，一起": 0,
+    "走者": 0,
+    "读作": 0,
+    "待校对": 0
+  },
+  "auxiliaryGrammarPatterns": {
+    "modal-before-ed-ing": 0,
+    "seems-before-non-adjective": 0
+  }
+}

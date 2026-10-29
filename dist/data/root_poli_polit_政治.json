@@ -1,0 +1,18 @@
+{
+  "name": "poli/polit (政治)",
+  "meaning": "城市,政治",
+  "words": [
+    {
+      "word": "policy",
+      "meaning": "政策",
+      "example": "Aforecast a policy shift in Texas schools",
+      "source": "2023年真题"
+    },
+    {
+      "word": "politician",
+      "meaning": "政治家",
+      "example": "With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you're a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you're trying to convince someone who has a different set of beliefs than you,\" said Minson.",
+      "source": "2020年真题"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "directories": [
+    "material/exam_corpus",
+    "material/考试语料",
+    "material/website/data/exam_corpus"
+  ],
+  "files": [],
+  "recognizedFiles": 0,
+  "candidateSentences": 0,
+  "matchedWords": 0,
+  "sourceCounts": {}
+}

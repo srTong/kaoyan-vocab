@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>词汇练习 - 考研英语词汇</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 用户认证区域 -->
+        <div class="auth-section">
+            <button id="loginBtn" class="btn-login" style="display: none;" onclick="login()"> 登录</button>
+            <div id="userInfo" class="user-info" style="display: none;">
+                <img id="userAvatar" class="user-avatar" src="" alt="用户头像">
+                <span id="userName" class="user-name"></span>
+                <button class="btn-logout" onclick="logout()">登出</button>
+            </div>
+        </div>
+
+        <header>
+            <a href="index.html" class="back-btn">← 返回首页</a>
+            <h1>词汇练习</h1>
+            <p class="subtitle">根据例句选择正确的单词</p>
+        </header>
+
+        <main>
+            <div class="practice-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="progress-text">
+                    <span>第 <span id="currentQuestion">1</span> / <span id="totalQuestions">10</span> 题</span>
+                    <span class="score">得分: <strong id="score">0</strong></span>
+                </div>
+
+                <div class="question-card">
+                    <div class="example-sentence" id="exampleSentence">
+                        <!-- 例句将通过 JS 动态生成 -->
+                    </div>
+                    <div class="source-info" id="sourceInfo"></div>
+                    
+                    <div class="options" id="options">
+                        <!-- 选项将通过 JS 动态生成 -->
+                    </div>
+
+                    <div class="feedback" id="feedback"></div>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="nextBtn" class="btn btn-primary" style="display: none;">下一题 →</button>
+                    <button id="restartBtn" class="btn btn-secondary" style="display: none;">重新开始</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Auth0 SDK -->
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.22/auth0-spa.js"></script>
+    <script src="auth.js"></script>
+    <script src="practice.js?v=20261027-quality-gate-18"></script>
+</body>
+</html>
